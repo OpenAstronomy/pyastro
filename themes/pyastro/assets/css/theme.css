@@ -1,0 +1,111 @@
+html {
+    font-family: "Source Sans Pro";
+    background-color: #212121;
+}
+
+body {
+    font-family: "Source Sans Pro";
+    background-color: #212121;
+    color: #f4f4f4;
+    text-align: center;
+    font-size: 24px;
+}
+
+.body-content {
+    font-size: 16px;
+    width: 650px;
+    max-width: 90%;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer {
+    font-size: 12px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    line-height: 1.1;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    text-align: center;
+}
+
+h1 a {
+    color: inherit;
+}
+
+/* Copied */
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.small {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.header {
+    font-size: 16px;
+}
+
+a {
+    color: #fef2aa;
+}
+
+.apply {
+    font-size: 20px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+.required.email {
+    background-color: #ffffff;
+}
+
+td.day {
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.program {
+    font-size: 14px;
+    width: 800px;
+    max-width: 90%;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr.break {
+    color: #919191;
+}
+
+td.title {
+    font-style: italic;
+}
+
+tr {
+    vertical-align: top;
+}
+
+.chair {
+    font-style: italic;
+}
