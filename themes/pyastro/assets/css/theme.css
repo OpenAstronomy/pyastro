@@ -29,12 +29,98 @@ footer {
     line-height: 1.1;
 }
 
-.h1, .h2, .h3, h1, h2, h3 {
+.h1, .h2, h1, h2 {
     text-align: center;
 }
 
 h1 a {
     color: inherit;
+}
+
+.navbar-brand img {
+    width: 125px;
+}
+
+ul.navbar-nav {
+    margin: 7.5px 15px 7.5px 15px;
+}
+
+.navbar-nav > li {
+    height: 83px;
+    display: block;
+    line-height: 83px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    display: block;
+    line-height: 53px;
+    color: #f4f4f4;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: inherit;
+    color: inherit;
+}
+
+.navbar-inverse .navbar-nav > li > a::after {
+    display:block;
+    content:attr(data-text);
+    font-weight:bold;
+    height:1px;
+    color:transparent;
+    overflow:hidden;
+    visibility:hidden;
+    margin-bottom:-1px;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: inherit;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: inherit;
+    color: inherit;
+}
+
+.dropdown-menu {
+    background-clip: padding-box;
+    background-color: #212121;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
+    display: none;
+    float: left;
+    font-size: 14px;
+    left: 0;
+    list-style: outside none none;
+    margin: 2px 0 0;
+    min-width: 160px;
+    padding: 5px 0;
+    position: absolute;
+    text-align: left;
+    top: 100%;
+    z-index: 1000;
+}
+
+.dropdown-menu > li > a::after {
+    display:block;
+    content:attr(data-text);
+    font-size: 24px;
+    font-weight:bold;
+    height:1px;
+    color:transparent;
+    overflow:hidden;
+    visibility:hidden;
+    margin-bottom:-1px;
+}
+
+.dropdown-menu > li > a {
+  clear: both;
+  color: inherit;
+  font-weight: inherit;
+  font-size: 20px;
 }
 
 /* Copied */
@@ -69,10 +155,6 @@ a {
 
 .center {
     text-align: center;
-}
-
-li {
-    margin-bottom: 1em;
 }
 
 .required.email {
