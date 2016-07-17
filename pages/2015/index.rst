@@ -9,7 +9,10 @@ Python in Astronomy
 Lorentz Center, Leiden
 -----------------------
 
-|python logo|
+.. image:: /images/python-logo-generic.png
+   :align: center
+   :width: 75px
+
 
 
 About
@@ -70,7 +73,7 @@ workshop:
    Robitaille <https://www.flickr.com/photos/thomasrobitaille/sets/72157653142282004>`__,
    and `Vanessa
    Moss <https://www.flickr.com/photos/thomasrobitaille/sets/72157655834448496>`__
--  `Twitter archive <twitter-archive.html>`__ for the workshop hashtag:
+-  `Twitter archive <twitter-archive>`__ for the workshop hashtag:
    #pyastro15
 
 
@@ -79,7 +82,7 @@ Details
 
 During the workshop, we required participants to follow the code of
 conduct for the workshop which can be found
-`here <code-of-conduct.html>`__, and we also abode by the `Python
+`here <code-of-conduct>`__, and we also abode by the `Python
 Community Code of
 Conduct <https://www.python.org/psf/codeofconduct/>`__. If you have any
 questions about the workshop, you can reach the SOC at
@@ -93,12 +96,12 @@ researchers (you can find the official Lorentz Center workshop page
 
 This workshop was kindly sponsored by:
 
-|github logo|
-|lorentz center logo|
-|LCOGT logo|
+.. image:: /images/github_logo.png
+.. image:: /images/logolorentznieuw.png
+.. image:: /images/lcogt.png
  
-|numfocus logo|
-|PSF logo|
+.. image:: /images/numfocus_logo.png
+.. image:: /images/python.jpg
 
 .. raw:: html
 
@@ -110,24 +113,3 @@ Jeschke, Sarah Kendrew, Stuart Mumford, Magnus Persson
 .. raw:: html
 
    </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. |python logo| image:: /images/python-logo-generic.png
-   :width: 75px
-.. |github logo| image:: /images/github_logo.png
-.. |lorentz center logo| image:: /images/logolorentznieuw.png
-.. |LCOGT logo| image:: /images/lcogt.png
-.. |numfocus logo| image:: /images/numfocus_logo.png
-.. |PSF logo| image:: /images/python.jpg
-

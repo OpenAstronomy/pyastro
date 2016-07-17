@@ -1,16 +1,13 @@
-.. raw:: html
 
-   <div id="content">
+Python in Astronomy
+===================
 
-.. rubric:: Python in Astronomy
-   :name: python-in-astronomy
 
-.. rubric:: 20-24 April 2015, Lorentz Center, Leiden
-   :name: april-2015-lorentz-center-leiden
+20-24 April 2015
+-----------------
 
-.. raw:: html
-
-   <div class="about">
+Lorentz Center, Leiden
+-----------------------
 
 The Python in Astronomy workshop is a community event intended for
 networking and collaboration as well as learning. We value the
@@ -21,8 +18,8 @@ the workshop and to abide by the following Code of Conduct. Please bring
 any issues to the confidential attention of the workshop organizers, and
 thank you for helping make this a welcoming, friendly event for all.
 
-.. rubric:: Code of Conduct
-   :name: code-of-conduct
+Code of Conduct
+###############
 
 Python in Astronomy will be a harassment-free environment for everyone,
 regardless of gender, sexual orientation, disability, physical
@@ -49,10 +46,3 @@ event at the sole discretion of the conference organizers.
 This code of conduct is adapted from
 http://software-carpentry.org/conduct.html
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>

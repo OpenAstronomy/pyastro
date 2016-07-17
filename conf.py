@@ -48,8 +48,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Python in Astronomy"),
         ("/2017/", "2017"),
-        ((("http://python-in-astronomy.github.io/2016/", "2015"),
-          ("http://python-in-astronomy.github.io/2015/", "2016")), "Previous Editions")
+        ((("/2016/", "2016"),
+          ("/2015/", "2015")), "Previous Editions")
     ),
 }
 
