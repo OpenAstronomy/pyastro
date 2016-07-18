@@ -18,6 +18,7 @@ dependencies:
   - cloudpickle
   - docutils
   - doit
+  - ghp-import2
   - husl
   - jinja2
   - logbook
