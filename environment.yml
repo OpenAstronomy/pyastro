@@ -3,8 +3,8 @@ dependencies:
 - libgcc
 - ncurses
 - openssl
-- pip=8.1.2
-- python
+- pip
+- python=3
 - readline
 - setuptools
 - sqlite
