@@ -1,0 +1,4 @@
+Sitemap: http://openastronomy.org/pyastro/sitemapindex.xml
+
+User-Agent: *
+Host: openastronomy.org
