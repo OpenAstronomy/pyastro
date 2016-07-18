@@ -9,7 +9,7 @@ at: http://openastronomy.org/pyastro
 
 ## Contributing to the Website
 
-This site uses the [Nikola](http://getnikola.org) static site generator which is
+This site uses the [Nikola](http://getnikola.com) static site generator which is
 easy to use and written in Python. The pages for the site can be written in ReST
 or Markdown (or Jupyter Notebooks and other formats), to compile the site and
 preview locally run the following commands:
