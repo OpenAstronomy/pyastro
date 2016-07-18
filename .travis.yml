@@ -5,6 +5,10 @@ os:
 
 sudo: false
 
+branches:
+  only:
+  - master
+
 env:
   global:
     - PYTHON_VERSION=3.5
@@ -18,3 +22,6 @@ install:
 
 script:
   - nikola build
+
+after_success:
+  - bash .travis-deploy.sh

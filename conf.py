@@ -15,9 +15,13 @@ SITE_URL = "http://openastronomy.org/pyastro/"
 BLOG_EMAIL = "stuart@cadair.com"
 BLOG_DESCRIPTION = "Python in Astronomy Conference Series"  # (translatable)
 
-
 # What is the default language?
 DEFAULT_LANG = "en"
+
+# github_deploy
+
+GITHUB_DEPLOY_BRANCH='gh-pages'
+GITHUB_COMMIT_SOURCE=False
 
 # Links for the sidebar / navigation bar.  (translatable)
 # This is a dict.  The keys are languages, and values are tuples.
