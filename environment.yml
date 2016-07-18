@@ -23,6 +23,7 @@ dependencies:
   - logbook
   - lxml
   - mako
+  - markdown
   - markupsafe
   - natsort
   - nikola
