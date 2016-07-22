@@ -1,16 +1,9 @@
-.. raw:: html
+Participants
+============
 
-   <div id="content">
+Python in Astronomy 2016
+------------------------
 
-.. rubric:: Participants
-   :name: participants
-
-.. rubric:: Python in Astronomy 2016
-   :name: python-in-astronomy-2016
-
-.. raw:: html
-
-   <div class="program">
 
 +-------------------------------------------------------------------------------------------+
 | Tom Aldcroft, *Harvard/Smithsonian Center for Astrophysics*                               |
@@ -121,11 +114,3 @@
 +-------------------------------------------------------------------------------------------+
 | Peter Yoachim, University of Washington                                                   |
 +-------------------------------------------------------------------------------------------+
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>

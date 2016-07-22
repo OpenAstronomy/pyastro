@@ -1,19 +1,11 @@
-.. raw:: html
+Hotel Information
+=================
 
-   <div id="content">
+Python in Astronomy 2016
+------------------------
 
-.. rubric:: Hotel Information
-   :name: hotel-information
-
-.. rubric:: Python in Astronomy 2016
-   :name: python-in-astronomy-2016
-
-.. raw:: html
-
-   <div class="about">
-
-.. rubric:: Silver Cloud Inn
-   :name: silver-cloud-inn
+Silver Cloud Inn
+################
 
 A block of guest rooms has been secured at the `Silver Cloud Inn
 University District <http://www.silvercloud.com/university/>`__, with a
@@ -32,8 +24,9 @@ eScience Institute. The
 `Burke-Gilman <https://en.wikipedia.org/wiki/Burke-Gilman_Trail>`__ bike
 trail will take you between destinations.
 
-.. rubric:: Rates
-   :name: rates
+
+Rates
+#####
 
 Silver Cloud Inn University District is providing the following
 prices\*\* under the guestroom block, valid from March 19 - 27 (i.e.
@@ -48,8 +41,9 @@ per guestroom, regardless of guestroom type. Children 18 years and under
 stay free.
 \*\*See also the budget hotel option at the bottom of the page.
 
-.. rubric:: Reservations & Deadlines
-   :name: reservations-deadlines
+
+Reservations & Deadlines
+########################
 
 Reservations must be completed before February 18, 2016 in order to
 receive these rates and availability. Options for reserving a room
@@ -65,8 +59,10 @@ include:
 
 Any cancellations must be done by 3:00 pm the day prior to the scheduled
 arrival date, to avoid charges.
-.. rubric:: Concessions
-   :name: concessions
+
+
+Concessions
+###########
 
 -  Complimentary Hot Breakfast Buffet, served 6:30am to 9:30am Mon-Fri
    and 7:00am to 10:30am Sat-Sun
@@ -79,8 +75,8 @@ arrival date, to avoid charges.
 
 --------------
 
-.. rubric:: BUDGET OPTION: The College Inn
-   :name: budget-option-the-college-inn
+BUDGET OPTION: The College Inn
+##############################
 
 Another possibility for lodging is the `College
 Inn <http://www.collegeinnseattle.com/>`__, which is "European Style"
@@ -92,11 +88,3 @@ first-come-first-served basis. Conveniently, the College Inn's
 is only a 4 minute walk from the conference site. It is close to many
 restaurants on University Avenue, and only a few blocks from the U
 District Light Link Rail stop.
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
