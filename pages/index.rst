@@ -28,7 +28,7 @@ For details on the 2016 edition click `here </2016>`__.
 
 .. figure:: /images/pyastro16_attendees.jpg
    :alt: Python in Astronomy 2016 Attendees
-   :width: 400px
+   :width: 600px
    :align: center
 
 `2015 </2015>`__
@@ -37,3 +37,12 @@ For details on the 2016 edition click `here </2016>`__.
 The 2015 Python in Astronomy conference was on the 20-24 April 2015 at
 the `Lorentz Centre <http://lorentzcenter.nl/>`__ in Leiden. For more
 information and links to the proceedings click `here </2015>`__.
+
+.. figure:: /images/pyastro15_attendees.jpg
+   :alt: Python in Astronomy 2015 Attendees
+   :width: 600px
+   :align: center
+
+.. raw:: html
+   
+   <div style="padding-bottom: 20px;></div>
