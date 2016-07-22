@@ -7,14 +7,16 @@ Python in Astronomy 2016
 University of Washington, Seattle
 ---------------------------------
 
-|image0|
+.. image:: /images/python-logo-generic.png
+   :align: center
+   :width: 75px
 
 About
 #####
 
-The second *Python in Astronomy* conference will be held from 21-25
-March 2016 at the `University of Washington eScience
-Institute <http://escience.washington.edu/>`__ in Seattle, WA, USA.
+The second *Python in Astronomy* conference will be held from 21-25 March 2016
+at the `University of Washington eScience Institute
+<http://escience.washington.edu/>`__ in Seattle, WA, USA.
 
 Similarly to the `2015 meeting </2015>`__ (which was held at the Lorentz
 Center), we are aiming to bring together researchers, Python developers, users,
@@ -30,12 +32,12 @@ these efforts.
 Program
 #######
 
-The conference program can be found `here <program.html>`__.
+The conference program can be found `here <program>`__.
 
 Participants
 ############
 
-The list of participants can be found `here <participants.html>`__.
+The list of participants can be found `here <participants>`__.
 
 Banquet
 #######
@@ -49,7 +51,7 @@ Lodging
 #######
 
 Information for hotel reservations and discounted rates are
-`here <hotels.html>`__. Rooms must be booked before February 18, 2016 to
+`here <hotels>`__. Rooms must be booked before February 18, 2016 to
 guarantee the special rate.
 
 Getting Here
@@ -106,9 +108,7 @@ The hashtag for this meeting is
 
 This workshop is kindly sponsored by:
 
-+---------------+----+-------------------+
-| |LSST logo|   |    | |NumFOCUS logo|   |
-+---------------+----+-------------------+
+|LSST logo|  |NumFOCUS logo|
 
 |PSF logo|
 
@@ -124,9 +124,9 @@ Prescod-Weinstein, Megan Sosey, Erik Tollerud, and Jake Vanderplas
 
    </div>
 
-.. |image0| image:: python-logo-generic.png
+.. |image0| image:: /images/python-logo-generic.png
    :width: 100px
-.. |LSST logo| image:: lsst_logo.png
-.. |NumFOCUS logo| image:: numfocus_logo.png
-.. |PSF logo| image:: PSF_logo_noalpha.png
+.. |LSST logo| image:: /images/lsst_logo.png
+.. |NumFOCUS logo| image:: /images/numfocus_logo.png
+.. |PSF logo| image:: /images/PSF_logo_noalpha.png
 

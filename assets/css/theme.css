@@ -123,6 +123,13 @@ ul.navbar-nav {
   font-size: 20px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 0px none;
+}
 /* Copied */
 
 h1 {
