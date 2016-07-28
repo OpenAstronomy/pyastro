@@ -23,11 +23,18 @@ developers of Python packages.
 Attending PyAstro17
 ###################
 
-Applications for Python in Astronomy 2017 will open on the September 12th 2016,
-participants will be selected both on merit and to ensure a diversity at the
-conference.
+On Sept 12, 2016, we will begin accepting requests from interested participants.
+Participant selection will be made with the goal of *growing* the Python in
+Astronomy community and we particularly encourage requests to attend from junior
+astronomers and people who are new to contributing to open source software.
+Effort will also be made to select participants who have a demonstrated
+potential to contribute meaningfully to the Python in Astronomy infrastructure
+via providing educational materials, documentation, and/or coding. Only basic
+familiarity with Python is expected of participants. This conference is neither
+intended to be a introduction to Python bootcamp nor only for expert-level
+Python developers.
 
-Until applications open you can register your interest or nominate someone who
+Until then you can register your interest or nominate someone who
 you feel should attend using the following form:
 
 Details
