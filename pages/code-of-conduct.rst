@@ -12,7 +12,7 @@ are expected to show respect and courtesy to other attendees throughout
 the workshop and to abide by the following Code of Conduct. Any issues
 can be brought to the confidential attention of the workshop organizers
 (including via e-mail to
-`python-in-astronomy-soc@gmail.com <mailto:python-in-astronomy-soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__),
+`python.in.astronomy.soc@gmail.com <mailto:python.in.astronomy.soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__),
 and thank you for helping make this a welcoming, friendly event for all.
 
 Code of Conduct
@@ -58,7 +58,7 @@ As members of the community,
    and to not remain silent when we see violations of the code of
    conduct. We will take action when members of our community violate
    this code such as notifying a workshop organizer, emailing
-   `python-in-astronomy-soc@gmail.com <mailto:python-in-astronomy-soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__,
+   `python.in.astronomy.soc@gmail.com <mailto:python.in.astronomy.soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__,
    or talking privately with the person.
 
 This code of conduct applies to all community situations online and

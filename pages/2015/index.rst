@@ -86,7 +86,7 @@ conduct for the workshop which can be found
 Community Code of
 Conduct <https://www.python.org/psf/codeofconduct/>`__. If you have any
 questions about the workshop, you can reach the SOC at
-python-in-astronomy-soc@googlegroups.com
+python.in.astronomy.soc@googlegroups.com
 
 The workshop was hosted by the Lorentz Center, which is an international
 center that coordinates and hosts workshops in the sciences, based on

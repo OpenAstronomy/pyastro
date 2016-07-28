@@ -63,5 +63,5 @@ Organising Committee
 The organising committee consists of: Stuart Mumford, Matt Craig, Kelle Cruz,
 Daniela Huppenkothen, Abigail Stevens and Erik Tollerud.
 
-If you want to contact the SOC you can email python-in-astronomy-soc@gmail.com.
+If you want to contact the SOC you can email python.in.astronomy.soc@gmail.com.
 
