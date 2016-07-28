@@ -6,7 +6,7 @@ Python in Astronomy
    :width: 75px
 
 Python in Astronomy is a conference series focusing on the use,
-development and community surrounding Python packages for all types of
+development, and community surrounding Python packages for all types of
 Astronomy.
 
 `2017 </2017>`__
