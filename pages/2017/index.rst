@@ -55,7 +55,7 @@ The hash tag for this workshop will be "#pyastro17" feel free to use it before,
 during and after the workshop to connect to other participants and the wider
 community following the workshop.
 Remember, when interacting with people either in person or on social media, you
-are required to follow the `code of conduct <code-of-conduct>`_.
+are required to follow the `code of conduct </code-of-conduct>`_.
 
 
 Organising Committee

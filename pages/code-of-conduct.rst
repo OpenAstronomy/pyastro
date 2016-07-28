@@ -1,16 +1,8 @@
-.. raw:: html
+Code of Conduct
+===============
 
-   <div id="content">
-
-.. rubric:: Code of Conduct
-   :name: code-of-conduct
-
-.. rubric:: Python in Astronomy 2016
-   :name: python-in-astronomy-2016
-
-.. raw:: html
-
-   <div class="about">
+Python in Astronomy
+-------------------
 
 The Python in Astronomy workshop is a community event intended for
 networking and collaboration as well as learning. We value the
@@ -23,8 +15,8 @@ can be brought to the confidential attention of the workshop organizers
 `python-in-astronomy-soc@gmail.com <mailto:python-in-astronomy-soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__),
 and thank you for helping make this a welcoming, friendly event for all.
 
-.. rubric:: Code of Conduct
-   :name: code-of-conduct-1
+Code of Conduct
+###############
 
 The community of participants of Python in Astronomy Workshops is made
 up of members from around the globe with a diverse set of skills,
@@ -82,14 +74,6 @@ This code of conduct has been adapted from the `Astropy Community Code
 of Conduct <http://www.astropy.org/about.html#codeofconduct>`__.
 
 | |Creative Commons License|
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
 
 .. |Creative Commons License| image:: https://i.creativecommons.org/l/by/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by/4.0/
