@@ -6,25 +6,24 @@ Python in Astronomy
    :width: 75px
 
 Python in Astronomy is a conference series focusing on the use,
-development and community surrounding Python packages for all types of
-Astronomy. To date the conference has been an annual event, with an
-edition in `2016 </2016>`__ and `2015 </2015>`__.
+development, and community surrounding Python packages for all types of
+Astronomy.
 
 `2017 </2017>`__
 ----------------
 
-The 2017 edition will be back at the `Lorentz
+In 2017, the conference will be back at the `Lorentz
 Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
 `2016 </2016>`__
 ----------------
 
-The 2016 edition of Python in Astronomy was hosted at the `University of
+The 2016 Python in Astronomy was hosted at the `University of
 Washington eScience Institute <http://escience.washington.edu/>`__ in
 Seattle, WA, USA.
 
-For details on the 2016 edition click `here </2016>`__.
+For details on the 2016 conference click `here </2016>`__.
 
 .. figure:: /images/pyastro16_attendees.jpg
    :alt: Python in Astronomy 2016 Attendees
@@ -44,5 +43,5 @@ information and links to the proceedings click `here </2015>`__.
    :align: center
 
 .. raw:: html
-   
+
    <div style="padding-bottom: 20px;></div>

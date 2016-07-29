@@ -53,7 +53,7 @@ NAVIGATION_LINKS = {
         ("/", "Python in Astronomy"),
         ("/2017/", "2017"),
         ((("/2016/", "2016"),
-          ("/2015/", "2015")), "Previous Editions")
+          ("/2015/", "2015")), "Previous Conferences")
     ),
 }
 
