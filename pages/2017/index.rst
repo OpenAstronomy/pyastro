@@ -44,11 +44,9 @@ The Lorentz Center is an international center for scientific workshops, based on
 the philosophy that science thrives on interaction between creative researchers.
 Python in Astronomy 2017 will be hosted in the "`Lorentz@Oort
 <http://www.lorentzcenter.nl/facilities.php>`_" venue, which has a maximum
-capacity of 55 people, this is where the 2015 Python in Astronomy was hosted.
-For more information on the Lorentz Center see `their website
-<http://www.lorentzcenter.nl>`_.
-All participants at the conference will be expected to follow the `code of
-conduct </code-of-conduct>`_.
+capacity of 55 people. For more information on the Lorentz Center see `their
+website <http://www.lorentzcenter.nl>`_. All participants at the conference will
+be expected to follow the `code of conduct </code-of-conduct>`_.
 
 Social Media
 ############
