@@ -34,8 +34,8 @@ documentation, and/or coding. Only basic familiarity with Python is expected of
 participants. This conference is neither intended to be an introduction to
 Python bootcamp nor only for expert-level Python developers.
 
-Until then you can register your interest or nominate someone who
-you feel should attend using the following form:
+Until then you can register your interest or nominate someone who you feel
+should attend using this `form <https://goo.gl/forms/4Y7CB3mDwB6SqgtH2>`_.
 
 Details
 #######
