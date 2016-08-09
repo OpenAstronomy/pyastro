@@ -76,8 +76,8 @@ Details
 
 During the workshop, we require participants to follow the code of
 conduct for the workshop which can be found
-`here <code-of-conduct>`__. If you have any questions about the
-workshop, you can reach the SOC at python-in-astronomy-soc@gmail.com
+`here </code-of-conduct>`__. If you have any questions about the
+workshop, you can reach the SOC at python.in.astronomy.soc@gmail.com
 
 The workshop is hosted by the University of Washington `eScience
 Institute <http://escience.washington.edu/>`__, whose mission is to
