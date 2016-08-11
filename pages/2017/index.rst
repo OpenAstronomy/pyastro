@@ -9,16 +9,16 @@ Lorentz Center, Leiden
 ----------------------
 
 The third edition of the Python in Astronomy Conference will be held at the
-Lorentz Center from the **8 - 12th May 2017**.
+Lorentz Center from **8 - 12th May 2017**.
 
 This conference aims to bring a wide variety of people who use, develop or teach
 people about Python packages in the context of all forms of Astronomy. The
 conference will include presentations, tutorials, unconference sessions, and
-sprints. As well as building the community around astronomical uses of Python
+sprints. As well as building the community around astronomical uses of Python,
 the conference aims to improve collaboration and interoperability between
-Python, packages, share knowledge on Python packages and techniques as well as
-provide training and educational materials for users and developers of Python
-packages.
+Python, packages, share knowledge on Python packages and techniques. It will
+also provide training and educational materials for users and developers of
+Python packages.
 
 Attending PyAstro17
 ###################
