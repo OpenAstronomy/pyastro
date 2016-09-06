@@ -1,6 +1,7 @@
 html {
     font-family: "Source Sans Pro";
     background-color: #212121;
+    width: 100%;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
     color: #f4f4f4;
     text-align: center;
     font-size: 24px;
+    width: 100%;
 }
 
 .body-content {
@@ -130,6 +132,42 @@ table {
 table, th, td {
     border: 0px none;
 }
+
+img.align-center {
+    padding-bottom: 15px;
+}
+
+div.row {
+    width: 100%;
+}
+#footer {
+    position : fixed;
+    bottom : 0;
+    height : 20px;
+    margin-top : 20px;
+    background-color: #212121;
+    width: 650px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+#footer > div.left {
+    float: left;
+    width: 280px;
+}
+
+#footer > div.centre {
+    display: inline-block;
+    width: 100px;
+}
+
+#footer > div.right {
+    float: right;
+    width: 200px;
+    text-align: right;
+}
+
 /* Copied */
 
 h1 {
