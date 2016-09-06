@@ -8,6 +8,11 @@ Python in Astronomy 2017
 Lorentz Center, Leiden
 ----------------------
 
+
+.. image:: /images/pyastro_logo_150px.png
+   :align: center
+   :width: 150px
+
 The third edition of the Python in Astronomy Conference will be held at the
 Lorentz Center from **8 - 12th May 2017**.
 

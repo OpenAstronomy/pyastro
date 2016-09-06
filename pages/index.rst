@@ -1,9 +1,10 @@
 Python in Astronomy
 ===================
 
-.. image:: /images/python-logo-generic.png
+.. image:: /images/pyastro_logo_150px.png
    :align: center
-   :width: 75px
+   :width: 150px
+
 
 Python in Astronomy is a conference series focusing on the use,
 development, and community surrounding Python packages for all types of
