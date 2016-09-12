@@ -28,7 +28,7 @@ Python packages.
 Attending PyAstro17
 ###################
 
-Between Sept 12, 2016 and Dec 9, 2016, we will be accepting requests from
+Until and including Dec 9, 2016 we will be accepting requests from
 interested participants. Participant selection will be made with the goal of
 *growing* the Python in Astronomy community and we particularly encourage
 requests to attend from junior astronomers and people who are new to
@@ -39,16 +39,16 @@ documentation, and/or coding. Only basic familiarity with Python is expected of
 participants. This conference is neither intended to be an introduction to
 Python bootcamp nor only for expert-level Python developers.
 
-Until then you can register your interest or nominate someone who you feel
-should attend using this `form <https://goo.gl/forms/4Y7CB3mDwB6SqgtH2>`_.
+You can apply to attend by filling out `this form 
+<https://goo.gl/forms/s2gtEC2bCltCqzz72>`_.
 
 Details
 #######
 
 The Lorentz Center is an international center for scientific workshops, based on
 the philosophy that science thrives on interaction between creative researchers.
-Python in Astronomy 2017 will be hosted in the "`Lorentz@Oort
-<http://www.lorentzcenter.nl/facilities.php>`_" venue, which has a maximum
+Python in Astronomy 2017 will be hosted in the "`Oort venue
+<http://www.lorentzcenter.nl/facilities.php>`_", which has a maximum
 capacity of 55 people. For more information on the Lorentz Center see `their
 website <http://www.lorentzcenter.nl>`_. All participants at the conference will
 be expected to follow the `code of conduct </code-of-conduct>`_.
