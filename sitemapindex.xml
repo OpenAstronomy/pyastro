@@ -7,10 +7,10 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://openastronomy.org/pyastro/rss.xml</loc>
-  <lastmod>2016-09-12T17:23:00Z</lastmod>
+  <lastmod>2016-10-11T12:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://openastronomy.org/pyastro/sitemap.xml</loc>
-  <lastmod>2016-09-12T17:23:00Z</lastmod>
+  <lastmod>2016-10-11T12:09:00Z</lastmod>
  </sitemap>
 </sitemapindex>
