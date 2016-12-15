@@ -29,57 +29,39 @@ for Python in Astronomy. The meeting is therefore not only aimed at current
 developers, but also users and educators who are interested in being involved in
 these efforts.
 
-Program
-#######
+Proceedings
+###########
 
-The conference program can be found `here <program>`__.
+There are several resources that you can use to find out more about the
+conference:
 
-Participants
-############
-
-The list of participants can be found `here <participants>`__.
-
-Banquet
-#######
-
-The conference banquet will be held at `Ivar's Salmon
-House <http://www.ivars.com/locations/salmon-house>`__, on Wednesday
-evening. The restaurant is just 0.7 miles from the conference site, a
-10-15 minute walk along the Burke-Gilman bike trail.
-
-Lodging
-#######
-
-Information for hotel reservations and discounted rates are
-`here <hotels>`__. Rooms must be booked before February 18, 2016 to
-guarantee the special rate.
-
-Getting Here
-############
-
-The conference will be held in the eScience Institute, which is on the
-6th floor of the Physics and Astronomy Tower (PAT) at the University of
-Washington. View `Maps and
-Directions <https://www.google.com/maps/place/eScience+Institute/@47.6533665,-122.3117848,15z/data=!4m2!3m1!1s0x0:0x7c2434f079426d8c>`__.
-The street address is 3910 15th Ave NE, Seattle, WA 98195.
-
-From SEATAC airport you can catch the `Link Light
-Rail <http://www.soundtransit.org/link>`__ to the University of
-Washington station, and connect there with the complementary hotel
-shuttle. (Note that the link light rail currently terminates in downtown
-Seattle, but the new extension all the way to the university will be
-active as of March 19). See also the `King County
-Metro <http://metro.kingcounty.gov/>`__ website for planning your route.
+-  The `'Unproceedings'
+   document <https://doi.org/10.5281/zenodo.56793>`__: a document
+   describing the discussions and progress made during unconference
+   sessions. This is published on
+   `Zenodo <https://doi.org/10.5281/zenodo.56793>`__ and can be cited
+   using the DOI https://doi.org/10.5281/zenodo.56793.
+-  The YouTube `Python in Astronomy 2016
+   playist <https://www.youtube.com/playlist?list=PL7P5HEbvYRSYdEp8i28NoVd7GeKvrBHXm>`__:
+   videos for most talks from the conference.
+-  The Talk slides : these are also archived on Zenodo in the `Python in
+   Astronomy Conference Series
+   <https://zenodo.org/communities/pyastro/?page=1&size=20>`__ collection.
+-  `Twitter archive <twitter-archive>`__ for the workshop hashtag:
+   #pyastro16
 
 Details
 #######
 
-During the workshop, we require participants to follow the code of
+The conference program can be found `here <program>`__ and the list of
+participants can be found `here <participants>`__.
+
+During the workshop, we required participants to follow the code of
 conduct for the workshop which can be found
 `here </code-of-conduct>`__. If you have any questions about the
 workshop, you can reach the SOC at python.in.astronomy.soc@gmail.com
 
-The workshop is hosted by the University of Washington `eScience
+The workshop was hosted by the University of Washington `eScience
 Institute <http://escience.washington.edu/>`__, whose mission is to
 engage researchers across disciplines in developing and applying
 advanced computational methods and tools to real world problems in
@@ -104,7 +86,7 @@ data-intensive discovery.
    </div>
 
 The hashtag for this meeting is
-`**#pyastro16** <https://twitter.com/search?q=%23pyastro16>`__
+`#pyastro16 <https://twitter.com/search?q=%23pyastro16>`__
 
 This workshop is kindly sponsored by:
 
@@ -129,4 +111,3 @@ Prescod-Weinstein, Megan Sosey, Erik Tollerud, and Jake Vanderplas
 .. |LSST logo| image:: /images/lsst_logo.png
 .. |NumFOCUS logo| image:: /images/numfocus_logo.png
 .. |PSF logo| image:: /images/PSF_logo_noalpha.png
-
