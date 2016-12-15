@@ -2,6 +2,7 @@ language: c
 
 os:
   - linux
+  - osx
 
 sudo: false
 
@@ -22,6 +23,7 @@ install:
 
 script:
   - nikola build
+  - nikola check -l -f
 
 after_success:
   - bash .travis-deploy.sh
