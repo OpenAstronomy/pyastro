@@ -7,3 +7,4 @@ dependencies:
   - nikola
   - ws4py
   - watchdog
+  - ghp-import2
