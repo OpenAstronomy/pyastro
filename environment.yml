@@ -1,43 +1,9 @@
 name: nikola
 dependencies:
-- libgcc
-- ncurses
-- openssl
-- pip
 - python=3
-- readline
-- setuptools
-- sqlite
-- tk
-- wheel
-- xz
-- zlib
+- lxml
+- jinja2
 - pip:
-  - argh
-  - blinker
-  - cloudpickle
-  - docutils
-  - doit
-  - ghp-import2
-  - husl
-  - jinja2
-  - logbook
-  - lxml
-  - mako
-  - markdown
-  - markupsafe
-  - natsort
   - nikola
-  - pathtools
-  - pillow
-  - pygments
-  - pyinotify
-  - pyrss2gen
-  - python-dateutil
-  - pyyaml
-  - requests
-  - six
-  - unidecode
-  - watchdog
   - ws4py
-  - yapsy
+  - watchdog
