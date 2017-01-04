@@ -42,6 +42,14 @@ Python bootcamp nor only for expert-level Python developers.
 You can apply to attend by filling out `this form 
 <https://goo.gl/forms/s2gtEC2bCltCqzz72>`_.
 
+There is limited financial support available; if you you need support, please 
+indicate that in your application.  The same aim that guides the selection of 
+participants will also guide the allocation of travel support: *growing* the 
+Python in Astronomy community.
+
+If your circumstances have changed since applying, please contact the organising
+committee at the email address below.
+
 Details
 #######
 
