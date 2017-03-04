@@ -1,13 +1,11 @@
 Python in Astronomy 2017
 ========================
 
-
 8 - 12 May 2017
 ---------------
 
 Lorentz Center, Leiden
 ----------------------
-
 
 .. image:: /images/pyastro_logo_150px.png
    :align: center
@@ -28,53 +26,56 @@ Python packages.
 Attending PyAstro17
 ###################
 
-Until and including Dec 9, 2016 we will be accepting requests from
-interested participants. Participant selection will be made with the goal of
-*growing* the Python in Astronomy community and we particularly encourage
-requests to attend from junior astronomers and people who are new to
-contributing to open source software. Effort will also be made to select
-participants who have a demonstrated potential to contribute meaningfully to the
-Python in Astronomy infrastructure via providing educational materials,
-documentation, and/or coding. Only basic familiarity with Python is expected of
-participants. This conference is neither intended to be an introduction to
-Python bootcamp nor only for expert-level Python developers.
-
-You can apply to attend by filling out `this form 
-<https://goo.gl/forms/s2gtEC2bCltCqzz72>`_.
+All applicants have been contacted by the SOC regarding the status of their application. 
+We will livestream the plenary sessions, and share the links here and on social media, so you can follow along remotely.
 
 There is limited financial support available; if you you need support, please 
-indicate that in your application.  The same aim that guides the selection of 
+indicate that in the form emailed to accepted applicants.  The same aim that guides the selection of 
 participants will also guide the allocation of travel support: *growing* the 
 Python in Astronomy community.
-
-If your circumstances have changed since applying, please contact the organising
-committee at the email address below.
 
 Details
 #######
 
-The Lorentz Center is an international center for scientific workshops, based on
+The `Lorentz Center <http://www.lorentzcenter.nl>`_ is an international center for scientific workshops, based on
 the philosophy that science thrives on interaction between creative researchers.
 Python in Astronomy 2017 will be hosted in the "`Oort venue
 <http://www.lorentzcenter.nl/facilities.php>`_", which has a maximum
-capacity of 55 people. For more information on the Lorentz Center see `their
-website <http://www.lorentzcenter.nl>`_. All participants at the conference will
+capacity of 55 people. All participants at the conference will
 be expected to follow the `code of conduct </code-of-conduct>`_.
 
 Social Media
 ############
 
-The hashtag for this workshop will be "#pyastro17" feel free to use it before,
-during and after the workshop to connect to other participants and the wider
-community following the workshop.
+The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_. 
+Feel free to use it before, during, and after the workshop to connect with other participants and the wider
+community.
 Remember, when interacting with people either in person or on social media, you
 are required to follow the `code of conduct </code-of-conduct>`_.
 
 
 Organising Committee
 ####################
+
 The organising committee consists of: Stuart Mumford (chair), Matt Craig, Kelle Cruz,
-Daniela Huppenkothen, Abigail Stevens and Erik Tollerud.
+Daniela Huppenkothen, Abigail Stevens, and Erik Tollerud.
 
-If you want to contact the SOC you can email python.in.astronomy.soc@gmail.com.
+To contact the SOC, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
+Sponsors
+########
+
+Python in Astronomy 2017 is kindly sponsored by:
+
+.. image:: /images/logolorentznieuw.png
+   :target: http://www.lorentzcenter.nl
+   :align: left
+   :height: 100px
+.. image:: http://astron.nl/sites/astron.nl/files/cms/Astron_Logo_500.jpg
+   :target: http://astron.nl/
+   :align: left
+   :height: 100px
+.. image:: http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png
+   :target: http://www.numfocus.org/
+   :align: left
+   :height: 100px
