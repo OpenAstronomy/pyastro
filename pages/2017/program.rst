@@ -18,7 +18,7 @@ Monday
 -  **11:45** - Ana Afonso - *'DOPTERIAN: a Python package for artificially redshifting galaxies'*
 -  **12:05** - Flash Introductions
 -  **12:40** - Lunch
--  **14:00** - Unconference (with coffee at 16:00)
+-  **14:00** - Unconference
 -  **17:00** - Borrel
 
 Tuesday
@@ -65,7 +65,7 @@ Thursday
 -  **11:45** - Sprint / Hack
 -  **12:30** - Lunch and organizing sprints
 -  **14:00** - Hack check-in
--  **14:45** - Sprint / Hack (with coffee at 16:00)
+-  **14:45** - Sprint / Hack
 -  **17:30** - Summary of sprints
 -  **18:00** - Adjourn or move to “beer hack”
 
@@ -81,6 +81,6 @@ Friday
 -  **11:35** - Future of Python in Astronomy
 -  **12:15** - Unconference planning
 -  **12:30** - Lunch
--  **14:00** - Unconference (with coffee at 16:00)
+-  **14:00** - Unconference
 -  **15:30** - Unconference Summary
 -  **16:00** - Adjourn
