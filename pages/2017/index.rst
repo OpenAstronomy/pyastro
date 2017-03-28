@@ -23,17 +23,6 @@ Python, packages, share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
 Python packages.
 
-Attending PyAstro17
-###################
-
-All applicants have been contacted by the SOC regarding the status of their application. 
-We will livestream the plenary sessions, and share the links here and on social media, so you can follow along remotely.
-
-There is limited financial support available; if you you need support, please 
-indicate that in the form emailed to accepted applicants.  The same aim that guides the selection of 
-participants will also guide the allocation of travel support: *growing* the 
-Python in Astronomy community.
-
 Details
 #######
 
@@ -43,6 +32,11 @@ Python in Astronomy 2017 will be hosted in the "`Oort venue
 <http://www.lorentzcenter.nl/facilities.php>`_", which has a maximum
 capacity of 55 people. All participants at the conference will
 be expected to follow the `code of conduct </code-of-conduct>`_.
+
+Program
+#######
+
+The program for the conference can be found `here <./program>`__.
 
 Social Media
 ############
@@ -67,15 +61,21 @@ Sponsors
 
 Python in Astronomy 2017 is kindly sponsored by:
 
-.. image:: /images/logolorentznieuw.png
+|lorentz logo|  |NumFOCUS logo|
+
+|PSF logo|  |astron logo|
+
+.. |lorentz logo| image:: /images/logolorentznieuw.png
    :target: http://www.lorentzcenter.nl
-   :align: left
-   :height: 100px
-.. image:: http://astron.nl/sites/astron.nl/files/cms/Astron_Logo_500.jpg
+   :width: 45%
+
+.. |astron logo| image:: http://astron.nl/sites/astron.nl/files/logo.gif
    :target: http://astron.nl/
-   :align: left
-   :height: 100px
-.. image:: http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png
+   :width: 45%
+
+.. |numfocus logo| image:: http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png
    :target: http://www.numfocus.org/
-   :align: left
-   :height: 100px
+   :width: 45%
+
+.. |PSF logo| image:: /images/PSF_logo_noalpha.png
+   :width: 45%
