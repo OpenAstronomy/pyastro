@@ -19,9 +19,9 @@ people about Python packages in the context of all forms of Astronomy. The
 conference will include presentations, tutorials, unconference sessions, and
 sprints. As well as building the community around astronomical uses of Python,
 the conference aims to improve collaboration and interoperability between
-Python, packages, share knowledge on Python packages and techniques. It will
+Python packages, and share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
-Python packages.
+Python astronomy packages.
 
 Details
 #######
