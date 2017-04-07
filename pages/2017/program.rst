@@ -86,3 +86,5 @@ Friday
 -  **14:00** - Unconference
 -  **15:30** - Unconference Summary
 -  **16:00** - Adjourn
+
+Talk abstracts are available on the `Lorentz Center website <http://lorentzcenter.nl/lc/web/2017/896/extra.php3?wsid=896&venue=Oort>`_.
