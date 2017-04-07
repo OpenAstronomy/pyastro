@@ -17,8 +17,6 @@ In 2017, the conference will be back at the `Lorentz
 Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
-`Apply Now! <https://goo.gl/forms/s2gtEC2bCltCqzz72>`_.
-
 `2016 </2016>`__
 ----------------
 
