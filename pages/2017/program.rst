@@ -47,13 +47,15 @@ Wednesday
 -  **09:50** - David Shupe - *'Python widgets for astronomy visualization'*
 -  **10:10** - Coffee
 -  **10:40** - Lucia Klarmann - *'Project based Python teaching: Lessons from the two-body problem and beyond'*
--  **11:00** - Code Review
+-  **11:00** - K. Azalee Bostroem - (Keynote) *'Code review: Building a community to talk about coding'*
 -  **11:45** - Lightning talks
 -  **12:30** - Lunch and organizing unconference sessions
 -  **14:00** - Unconference
 -  **16:00** - Coffee
 -  **16:30** - Plenary summary of unconferences and discussion
--  **17:00** - Bus to Dinner
+-  **17:00** - Bus to the dinner boat
+-  **17:30** - Boat tour with buffet dinner
+-  **21:30** - Bus back to Lorentz Center, train station, and hotel
 
 Thursday
 --------
