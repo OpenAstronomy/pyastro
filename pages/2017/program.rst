@@ -66,17 +66,16 @@ Thursday
 -  **12:30** - Lunch and organizing sprints
 -  **14:00** - Hack check-in
 -  **14:45** - Sprint / Hack
--  **17:30** - Summary of sprints
 -  **18:00** - Adjourn or move to “beer hack”
 
 Friday
 ------
 
 -  **09:15** - Coffee
--  **09:30** - Invited Talk - TBC
+-  **09:30** - Summary of Sprints
 -  **10:15** - Duncan Macleod - *'Using Python to study gravitational-wave data'*
 -  **10:35** - Johannes King - *'Astropy Regions'*
--  **10:55** - Contributed Talk 12 - *TBC*
+-  **10:55** - M. Emre Aydın - *'How Slow Are Your Loops?'*
 -  **11:15** - Coffee
 -  **11:35** - Future of Python in Astronomy
 -  **12:15** - Unconference planning
