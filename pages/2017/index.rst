@@ -59,7 +59,6 @@ The videos will then be saved and viewable on YouTube afterwards.
 
 We encourage all participants (including remote participants) to join our `chat room via Matrix <https://riot.im/app/#/room/#pyastro:matrix.org>`_ to allow people who couldn't attend to follow along, and to interact in real-time with other participants!
 This chat room will also be the most direct way for anyone remotely following along to ask questions during the livestream.
-There are bridges set up to access the chat room via `Gitter <https://gitter.im/OpenAstronomy/pyastro>`_ or `IRC (channel: #pyastro) <http://webchat.freenode.net/>`_ if you strongly prefer either of those platforms. 
 
 Organising Committee
 ####################
