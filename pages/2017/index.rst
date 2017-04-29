@@ -36,17 +36,30 @@ be expected to follow the `code of conduct </code-of-conduct>`_.
 Program
 #######
 
-The program for the conference can be found `here <./program>`__.
+The program for the conference can be found `here <./program>`__. 
+The talk abstracts can be found `here <http://lorentzcenter.nl/lc/web/2017/896/extra.php3?wsid=896&venue=Oort>`_.
 
 Social Media
 ############
 
-The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_. 
-Feel free to use it before, during, and after the workshop to connect with other participants and the wider
+The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_, 
+and the main twitter account is `@pyastro17 <https://twitter.com/pyastro17>`_. 
+Feel free to use the hashtag before, during, and after the workshop to connect with other participants and the wider
 community.
-Remember, when interacting with people either in person or on social media, you
+Remember, when interacting with people either in person or online, you
 are required to follow the `code of conduct </code-of-conduct>`_.
 
+Livestream and Live Chat
+########################
+
+To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials on YouTube. 
+The link will be posted here on Monday morning (May 8th) once it's set up. 
+The local timezone of the conference is CEST (UTC+2).
+The videos will then be saved and viewable on YouTube afterwards.
+
+We encourage all participants (including remote participants) to join our `chat room via Matrix <https://riot.im/app/#/room/#pyastro:matrix.org>`_ to allow people who couldn't attend to follow along, and to interact in real-time with other participants!
+This chat room will also be the most direct way for anyone remotely following along to ask questions during the livestream.
+There are bridges set up to access the chat room via `Gitter <https://gitter.im/OpenAstronomy/pyastro>`_ or `IRC (channel: #pyastro) <http://webchat.freenode.net/>`_ if you strongly prefer either of those platforms. 
 
 Organising Committee
 ####################
@@ -73,7 +86,7 @@ Python in Astronomy 2017 is kindly sponsored by:
    :target: http://astron.nl/
    :width: 45%
 
-.. |numfocus logo| image:: http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png
+.. |numfocus logo| image:: https://numfocus.wpengine.com/wp-content/uploads/2017/03/1457562110.png
    :target: http://www.numfocus.org/
    :width: 45%
 
