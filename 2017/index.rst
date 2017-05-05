@@ -77,6 +77,8 @@ Python in Astronomy 2017 is kindly sponsored by:
 
 |PSF logo|  |astron logo|
 
+|Aperio logo|
+
 .. |lorentz logo| image:: /images/logolorentznieuw.png
    :target: http://www.lorentzcenter.nl
    :width: 45%
@@ -90,4 +92,7 @@ Python in Astronomy 2017 is kindly sponsored by:
    :width: 45%
 
 .. |PSF logo| image:: /images/PSF_logo_noalpha.png
+   :width: 45%
+
+.. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
    :width: 45%
