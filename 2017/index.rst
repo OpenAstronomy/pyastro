@@ -101,4 +101,4 @@ Python in Astronomy 2017 is kindly sponsored by:
 
 .. |eSciences logo| image:: http://escience.wpengine.com/wp-content/uploads/2015/10/eScience_Logo_HR.png
    :target: http://escience.washington.edu/
-   :widht: 45%
+   :width: 45%
