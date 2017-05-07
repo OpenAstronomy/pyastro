@@ -23,4 +23,4 @@ You can join our live chat `here <https://riot.im/app/#/room/#pyastro:matrix.org
 
 .. raw:: html
 
-  <iframe src="https://riot.im/app/#/room/#pyastro:matrix.org" style="border:0; width:100%; height:450px;"></iframe>
+  <iframe src="https://riot.im/app/#/room/#pyastro:matrix.org" style="border:0; width:100%; height:600px;"></iframe>
