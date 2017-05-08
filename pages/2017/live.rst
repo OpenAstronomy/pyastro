@@ -4,7 +4,7 @@ Python in Astronomy 2017 - LIVE!
 Live Video
 ----------
 
-The live video feed can be seen `here <https://stream.presentationman.com/>`__.
+The live video feed can be seen `here <https://stream.presentationman.com/>`__.  On reaching that page you will need to hit play.  If you see an error message, it may help to refresh the page.
 
 Live Chat
 ---------
