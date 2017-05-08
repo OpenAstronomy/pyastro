@@ -36,7 +36,7 @@ be expected to follow the `code of conduct </code-of-conduct>`_.
 Program
 #######
 
-The program for the conference can be found `here <./program>`__. 
+The program for the conference can be found `here <./program>`__.
 The talk abstracts can be found `here <http://lorentzcenter.nl/lc/web/2017/896/extra.php3?wsid=896&venue=Oort>`_.
 
 Our live stream and twitter feeds can be found on the `live <./live>`__ page.
@@ -54,8 +54,8 @@ are required to follow the `code of conduct </code-of-conduct>`_.
 Livestream and Live Chat
 ########################
 
-To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials on YouTube. 
-The link will be posted here on Monday morning (May 8th) once it's set up. 
+To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials on YouTube.
+The link will be posted here on Monday morning (May 8th) once it's set up.
 The local timezone of the conference is CEST (UTC+2).
 The videos will then be saved and viewable on YouTube afterwards.
 
@@ -99,6 +99,6 @@ Python in Astronomy 2017 is kindly sponsored by:
 .. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
    :width: 45%
 
-.. |eSciences logo| image:: http://escience.wpengine.com/wp-content/uploads/2015/10/eScience_Logo_HR.png
+.. |eSciences logo| image:: /images/eScience_Logo_HR_noalpha.png
    :target: http://escience.washington.edu/
    :width: 45%
