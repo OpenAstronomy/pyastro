@@ -44,8 +44,8 @@ Our live stream and twitter feeds can be found on the `live <./live>`__ page.
 Social Media
 ############
 
-The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_, 
-and the main twitter account is `@pyastro17 <https://twitter.com/pyastro17>`_. 
+The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_,
+and the main twitter account is `@pyastro17 <https://twitter.com/pyastro17>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect with other participants and the wider
 community.
 Remember, when interacting with people either in person or online, you
@@ -79,7 +79,7 @@ Python in Astronomy 2017 is kindly sponsored by:
 
 |PSF logo|  |astron logo|
 
-|Aperio logo|
+|eSciences logo| |Aperio logo|
 
 .. |lorentz logo| image:: /images/logolorentznieuw.png
    :target: http://www.lorentzcenter.nl
@@ -97,4 +97,8 @@ Python in Astronomy 2017 is kindly sponsored by:
    :width: 45%
 
 .. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
+   :width: 45%
+
+.. |eSciences logo| image:: http://escience.wpengine.com/wp-content/uploads/2015/10/eScience_Logo_HR.png
+   :target: http://escience.washington.edu/
    :width: 45%
