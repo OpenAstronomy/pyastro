@@ -4,6 +4,8 @@ Python in Astronomy 2017 - LIVE!
 Live Video
 ----------
 
+The live video feed can be seen `here <https://stream.presentationman.com/>`__ or below (when it's working!)
+
 .. raw:: html
 
   <script async src="https://stream.presentationman.com/video.min.js"></script>
