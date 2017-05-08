@@ -4,23 +4,11 @@ Python in Astronomy 2017 - LIVE!
 Live Video
 ----------
 
-The live video feed can be seen `here <https://stream.presentationman.com/>`__ or below (when it's working!)
+The live video feed can be seen `here <https://www.youtube.com/channel/UCcP2jgY1MR56pjktdc-eNjg/live>`__ or below (when it's working!)
 
 .. raw:: html
 
-  <script async src="https://stream.presentationman.com/video.min.js"></script>
-
-  <script async src="https://stream.presentationman.com/videojs-contrib-hls.min.js"></script>
-
-  <link href="https://stream.presentationman.com/video-js-cdn.css" rel="stylesheet">
-
-  <video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="800px" data-setup='{}'>
-
-  <source src="https://stream.presentationman.com/video/livestream.m3u8" type="application/vnd.apple.mpegurl">
-
-  <source src="https://stream.presentationman.com/video/livestream.m3u8" type="video/mp4">
-
-        </video>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/KqjAqLfJhEM" frameborder="0" allowfullscreen></iframe>
 
 Live Chat
 ---------
