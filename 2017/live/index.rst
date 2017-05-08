@@ -4,7 +4,11 @@ Python in Astronomy 2017 - LIVE!
 Live Video
 ----------
 
-The live video feed can be seen `here <https://stream.presentationman.com/>`__.  On reaching that page you will need to hit play.  If you see an error message, it may help to refresh the page.
+The live video feed can be seen `here <https://www.youtube.com/channel/UCcP2jgY1MR56pjktdc-eNjg/live>`__ or below (when it's working!)
+
+.. raw:: html
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/KqjAqLfJhEM" frameborder="0" allowfullscreen></iframe>
 
 Live Chat
 ---------
