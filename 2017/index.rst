@@ -39,7 +39,7 @@ Program
 The program for the conference can be found `here <./program>`__.
 The talk abstracts can be found `here <http://lorentzcenter.nl/lc/web/2017/896/extra.php3?wsid=896&venue=Oort>`_.
 
-Our live stream and twitter feeds can be found on the `live <./live>`__ page.
+Our live stream and twitter feeds can be found on the `live <./live>`__ page, and additional materials are on the `Google Drive proceedings page <thttps://drive.google.com/drive/folders/0B3Gl3X9iCMeoQkpkUlFvQ3NVdnM?usp=sharing>`_.
 
 Social Media
 ############
