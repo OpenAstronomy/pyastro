@@ -74,10 +74,10 @@ Friday
 ------
 
 -  **09:15** - Coffee
--  **09:30** - Summary of Sprints
--  **10:15** - Duncan Macleod - *'Using Python to study gravitational-wave data'*
--  **10:35** - Johannes King - *'Astropy Regions'*
--  **10:55** - M. Emre Aydın - *'How Slow Are Your Loops?'*
+-  **09:30** - Johannes King - *'Astropy Regions'*
+-  **09:50** - Duncan Macleod - *'Using Python to study gravitational-wave data'*
+-  **10:10** - M. Emre Aydın - *'How Slow Are Your Loops?'*
+-  **10:30** - Summary of Sprints
 -  **11:15** - Coffee
 -  **11:35** - Future of Python in Astronomy
 -  **12:15** - Unconference planning
