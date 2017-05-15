@@ -97,6 +97,7 @@ Python in Astronomy 2017 is kindly sponsored by:
    :width: 45%
 
 .. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
+   :target: https://aperiosoftware.com/
    :width: 45%
 
 .. |eSciences logo| image:: /images/eScience_Logo_HR_noalpha.png
