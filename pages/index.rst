@@ -17,6 +17,11 @@ In 2017, the conference will be back at the `Lorentz
 Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
+.. figure:: /images/pyastro17_attendees.jpg
+   :alt: Python in Astronomy 2017 Attendees
+   :width: 600px
+   :align: center
+
 `2016 </2016>`__
 ----------------
 
