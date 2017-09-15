@@ -45,8 +45,8 @@ Our live stream and twitter feeds can be found on the `live <./live>`__ page, an
 Social Media
 ############
 
-The hashtag for this workshop is `#pyastro17 <https://twitter.com/hashtag/pyastro17>`_,
-and the main twitter account is `@pyastro17 <https://twitter.com/pyastro17>`_.
+The hashtag for this workshop is `#pyastro18 <https://twitter.com/hashtag/pyastro18>`_,
+and the main twitter account is `@pyastro18 <https://twitter.com/pyastro18>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect with other participants and the wider
 community.
 Remember, when interacting with people either in person or online, you
@@ -66,8 +66,7 @@ This chat room will also be the most direct way for anyone remotely following al
 Organising Committee
 ####################
 
-The organising committee consists of: Stuart Mumford (chair), Matt Craig, Kelle Cruz,
-Daniela Huppenkothen, Abigail Stevens, and Erik Tollerud.
+The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Daniela Huppenkothen, Andrew Leonard, Duncan Macleod, Brigitta Sipocz and Erik Tollerud.
 
 To contact the SOC, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
