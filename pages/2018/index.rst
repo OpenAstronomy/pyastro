@@ -56,8 +56,8 @@ Livestream and Live Chat
 ########################
 
 To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials on YouTube.
-The link will be posted here on Monday morning (May 8th) once it's set up.
-The local timezone of the conference is CEST (UTC+2).
+The link will be posted here on Monday morning (April 30th) once it's set up.
+The local timezone of the conference is EDT (UTC-4).
 The videos will then be saved and viewable on YouTube afterwards.
 
 We encourage all participants (including remote participants) to join our `chat room via Matrix <https://riot.im/app/#/room/#pyastro:matrix.org>`_ to allow people who couldn't attend to follow along, and to interact in real-time with other participants!
