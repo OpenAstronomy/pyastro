@@ -34,10 +34,9 @@ All participants at the conference will be expected to follow the `code of condu
 Program
 #######
 
-The program for the conference can be found `here <./program>`__.
-The talk abstracts can be found `here <http://lorentzcenter.nl/lc/web/2017/896/extra.php3?wsid=896&venue=Oort>`_.
 
-Our live stream and twitter feeds can be found on the `live <./live>`__ page, and additional materials are on the `Google Drive proceedings page <https://drive.google.com/drive/folders/0B3Gl3X9iCMeoQkpkUlFvQ3NVdnM?usp=sharing>`_.
+When they are finalised, the programme and talk abstracts for the conference will be available here.
+There will also be links to the live stream, twitter feed and Google Drive proceedings page containing additional materials.
 
 Social Media
 ############
