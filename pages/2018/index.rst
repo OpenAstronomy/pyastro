@@ -29,7 +29,7 @@ Details
 
 The `Center for Computational Astrophysics <https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/>`_
 is a research center committed to developing the research tools needed for modern astronomy.
-All participants at the conference will be expected to follow the `code of conduct </code-of-conduct>`_
+All participants at the conference will be expected to follow the `code of conduct </code-of-conduct>`_.
 
 Program
 #######
