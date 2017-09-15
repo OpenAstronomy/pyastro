@@ -1,18 +1,19 @@
 Python in Astronomy 2017
 ========================
 
-8 - 12 May 2017
----------------
+30 April - 4 May 2018
+---------------------
 
-Lorentz Center, Leiden
-----------------------
+Center for Computational Astrophysics, Flatiron Institute, New York
+-------------------------------------------------------------------
 
 .. image:: /images/pyastro_logo_150px.png
    :align: center
    :width: 150px
 
-The third edition of the Python in Astronomy Conference will be held at the
-Lorentz Center from **8 - 12th May 2017**.
+The fourth Python in Astronomy Conference will be held at the Center for
+Computational Astrophysics at the Flatiron Institute in New York from
+**30th April - 4th May 2018**.
 
 This conference aims to bring a wide variety of people who use, develop or teach
 people about Python packages in the context of all forms of Astronomy. The
