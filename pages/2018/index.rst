@@ -27,12 +27,9 @@ Python astronomy packages.
 Details
 #######
 
-The `Lorentz Center <http://www.lorentzcenter.nl>`_ is an international center for scientific workshops, based on
-the philosophy that science thrives on interaction between creative researchers.
-Python in Astronomy 2017 will be hosted in the "`Oort venue
-<http://www.lorentzcenter.nl/facilities.php>`_", which has a maximum
-capacity of 55 people. All participants at the conference will
-be expected to follow the `code of conduct </code-of-conduct>`_.
+The `Center for Computational Astrophysics <https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/>`_
+is a research center committed to developing the research tools needed for modern astronomy.
+All participants at the conference will be expected to follow the `code of conduct </code-of-conduct>`_
 
 Program
 #######
