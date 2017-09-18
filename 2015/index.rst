@@ -1,6 +1,4 @@
-
-Python in Astronomy
-===================
+.. title: Python in Astronomy
 
 
 20-24 April 2015

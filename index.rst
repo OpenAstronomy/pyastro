@@ -1,5 +1,4 @@
-Python in Astronomy
-===================
+.. title: Python in Astronomy
 
 .. image:: /images/pyastro_logo_150px.png
    :align: center
