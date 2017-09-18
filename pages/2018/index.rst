@@ -66,36 +66,4 @@ The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Danie
 
 To contact the SOC, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
-Sponsors
-########
 
-Python in Astronomy 2017 is kindly sponsored by:
-
-|lorentz logo|  |NumFOCUS logo|
-
-|PSF logo|  |astron logo|
-
-|eSciences logo| |Aperio logo|
-
-.. |lorentz logo| image:: /images/logolorentznieuw.png
-   :target: http://www.lorentzcenter.nl
-   :width: 45%
-
-.. |astron logo| image:: http://astron.nl/sites/astron.nl/files/logo.gif
-   :target: http://astron.nl/
-   :width: 45%
-
-.. |numfocus logo| image:: https://numfocus.wpengine.com/wp-content/uploads/2017/03/1457562110.png
-   :target: http://www.numfocus.org/
-   :width: 45%
-
-.. |PSF logo| image:: /images/PSF_logo_noalpha.png
-   :width: 45%
-
-.. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
-   :target: https://aperiosoftware.com/
-   :width: 45%
-
-.. |eSciences logo| image:: /images/eScience_Logo_HR_noalpha.png
-   :target: http://escience.washington.edu/
-   :width: 45%
