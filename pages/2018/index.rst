@@ -23,6 +23,12 @@ Python packages, and share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
 Python astronomy packages.
 
+Applying
+########
+
+Applications will open soon.  Please check back here in the near future for a link.
+
+
 Details
 #######
 
