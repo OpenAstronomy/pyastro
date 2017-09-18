@@ -1,5 +1,4 @@
-Python in Astronomy 2017
-========================
+.. title: Python in Astronomy 2017
 
 8 - 12 May 2017
 ---------------
