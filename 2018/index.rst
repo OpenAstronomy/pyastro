@@ -34,7 +34,7 @@ Program
 #######
 
 
-When they are finalised, the programme and talk abstracts for the conference will be available here.
+When they are finalized, the program and talk abstracts for the conference will be available here.
 There will also be links to the live stream, twitter feed and Google Drive proceedings page containing additional materials.
 
 Social Media
