@@ -1,11 +1,11 @@
-Python in Astronomy 2017
-========================
+Python in Astronomy 2018
+=========================
 
 30 April - 4 May 2018
----------------------
+-----------------------
 
 Center for Computational Astrophysics, Flatiron Institute, New York
--------------------------------------------------------------------
+----------------------------------------------------------------------
 
 .. image:: /images/pyastro_logo_150px.png
    :align: center
