@@ -18,7 +18,7 @@ Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
 .. figure:: /images/pyastro17_attendees.jpg
-   :alt: Python in Astronomy 2017 Attendees
+   :alt: Python in Astronomy 2017 Attendees, Copyright 2017 Daniela Huppenkothen
    :width: 600px
    :align: center
 
