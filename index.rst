@@ -19,7 +19,7 @@ in New York on the 30th April - 4th May. More details can be found `here </2018>
 `2017 </2017>`__
 ----------------
 
-In 2017, the conference will be back at the `Lorentz
+In 2017, the conference was back at the `Lorentz
 Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
