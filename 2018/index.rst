@@ -23,10 +23,15 @@ Python packages, and share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
 Python astronomy packages.
 
-Applying
-########
+Applying/Nominating
+###################
 
-Applications will open soon.  Please check back here in the near future for a link.
+Applications will open soon (target date is Oct 16, 2017). In the meantime, if
+you are interested in attending and/or have any questions about the
+conference, please use this form `https://goo.gl/forms/47eYzrWsKPqIPTL42 <https://goo.gl/forms/47eYzrWsKPqIPTL42>`_
+
+You can also use that form to nominate people; nominees will be encouraged to
+apply for the workshop.
 
 
 Details
