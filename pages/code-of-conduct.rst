@@ -1,8 +1,4 @@
-Code of Conduct
-===============
-
-Python in Astronomy
--------------------
+.. title: Code of Conduct
 
 The Python in Astronomy workshop is a community event intended for
 networking and collaboration as well as learning. We value the
@@ -14,9 +10,6 @@ can be brought to the confidential attention of the workshop organizers
 (including via e-mail to
 `python.in.astronomy.soc@gmail.com <mailto:python.in.astronomy.soc@gmail.com?Subject=Code%20of%20Conduct%20Violation>`__),
 and thank you for helping make this a welcoming, friendly event for all.
-
-Code of Conduct
-###############
 
 The community of participants of Python in Astronomy Workshops is made
 up of members from around the globe with a diverse set of skills,

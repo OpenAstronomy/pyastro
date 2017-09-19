@@ -54,7 +54,8 @@ NAVIGATION_LINKS = {
         ("/2018/", "2018"),
         ((("/2017/", "2017"),
           ("/2016/", "2016"),
-          ("/2015/", "2015")), "Previous Conferences")
+          ("/2015/", "2015")), "Previous Conferences"),
+        ("/code-of-conduct/", "Code of Conduct")
     ),
 }
 
