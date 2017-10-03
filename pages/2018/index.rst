@@ -61,7 +61,8 @@ are required to follow the `code of conduct </code-of-conduct>`_.
 Livestream and Live Chat
 ########################
 
-To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials on YouTube.
+To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials.
+
 The link will be posted here on Monday morning (April 30th) once it's set up.
 The local timezone of the conference is EDT (UTC-4).
 The videos will then be saved and viewable on YouTube afterwards.
@@ -76,4 +77,15 @@ The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Danie
 
 To contact the SOC, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
+Sponsors
+########
 
+Python in Astronomy 2018 is generously supported by:
+
+Center for Computational Astrophysics at the Flatiron Institute
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|flatiron logo|
+
+.. |flatiron logo| image:: /images/flatiron_logo.png
+   :target: https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/
+   :width: 60%
