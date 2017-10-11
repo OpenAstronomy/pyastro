@@ -83,9 +83,17 @@ Sponsors
 Python in Astronomy 2018 is generously supported by:
 
 Center for Computational Astrophysics at the Flatiron Institute
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##################################################################
 |flatiron logo|
 
-.. |flatiron logo| image:: /images/flatiron_logo.png
+
+.. |flatiron logo| image:: /images/flatiron_logo_white.png
    :target: https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/
-   :width: 60%
+   :width: 70%
+
+.. |numfocus logo| image:: https://numfocus.wpengine.com/wp-content/uploads/2017/03/1457562110.png
+   :target: http://www.numfocus.org/
+   :width: 45%
+
+.. |PSF logo| image:: /images/PSF_logo_noalpha.png
+   :width: 45%
