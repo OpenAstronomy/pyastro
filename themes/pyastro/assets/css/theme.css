@@ -169,6 +169,12 @@ div.row {
     text-align: right;
 }
 
+/* Add a bit of padding around sponsor logos */
+
+img {
+    margin: 100px;
+}
+
 /* Copied */
 
 h1 {
