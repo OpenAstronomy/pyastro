@@ -26,13 +26,10 @@ Python astronomy packages.
 Applying/Nominating
 ###################
 
-Applications will open soon (target date is Oct 16, 2017). In the meantime, if
-you are interested in attending and/or have any questions about the
-conference, please use this form `https://goo.gl/forms/47eYzrWsKPqIPTL42 <https://goo.gl/forms/47eYzrWsKPqIPTL42>`_
+*Applications are now open* at: `https://goo.gl/forms/WwV2AbpjFjM91hRv2
+<https://goo.gl/forms/WwV2AbpjFjM91hRv2>`_
 
-You can also use that form to nominate people; nominees will be encouraged to
-apply for the workshop.
-
+The nomination form is no longer available but please do encourage colleagues to apply.
 
 Details
 #######
