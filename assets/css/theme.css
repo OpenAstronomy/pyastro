@@ -171,9 +171,10 @@ div.row {
 
 /* Add a bit of padding around sponsor logos */
 
-/* img { */
-/*     margin: 50px; */
-/* } */
+.sponsor-logo {
+    display: block;
+    margin: 120px auto 120px auto;
+}
 
 /* Copied */
 
