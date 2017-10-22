@@ -70,9 +70,9 @@ This chat room will also be the most direct way for anyone remotely following al
 Organising Committee
 ####################
 
-The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Daniela Huppenkothen, Andrew Leonard, Duncan Macleod, Brigitta Sipocz and Erik Tollerud.
+The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Daniela Huppenkothen, Andrew Leonard, Duncan Macleod, Brigitta Sipocz and Erik Tollerud. The local organizing committee is Kelle Cruz and Stephanie Tonnesen but the logistics are primarily handled by Flatiron Staff: Seran Lee-Johnson and Jocelyn Dorszynski.
 
-To contact the SOC, send an email to python.in.astronomy.soc $AT$ gmail.com.
+To contact the organizers, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
 Sponsors
 ########
