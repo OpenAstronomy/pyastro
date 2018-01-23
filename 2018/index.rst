@@ -26,10 +26,7 @@ Python astronomy packages.
 Applying/Nominating
 ###################
 
-*Applications are now open* at: `https://goo.gl/forms/WwV2AbpjFjM91hRv2
-<https://goo.gl/forms/WwV2AbpjFjM91hRv2>`_
-
-The nomination form is no longer available but please do encourage colleagues to apply.
+Applications have closed.
 
 Details
 #######
