@@ -71,6 +71,23 @@ The organising committee consists of: Matt Craig (chair), Azalee Bostroem, Danie
 
 To contact the organizers, send an email to python.in.astronomy.soc $AT$ gmail.com.
 
+Lodging information
+###################
+
+The Flatiron Institute is located in Manhattan at: 162 5th Ave, New York, NY
+10010, USA. There are several hotels nearby in Manhattan, but some will be 
+expensive; many offer a government rate, though. If you make reservations at 
+one of them be sure to *check that the rate you are quoted is for all nights 
+of your stay*.
+
+Alternatives that are a short and convenient train ride away can be found in:
+
++ Hoboken, NJ: take PATH train towards towards 33rd street (NOT World Trade
+  Center), and get off at 23rd street.
++ Brooklyn, NY: stay near the L train (gray line), take to Union Square in
+  Manhattan.
+
+
 Sponsors
 ########
 
