@@ -78,9 +78,10 @@ Lodging information
 ###################
 
 The Flatiron Institute is located in Manhattan at: 162 5th Ave, New York, NY
-10010, USA. There are several hotels nearby in Manhattan, but they tend to be
-very expensive. If you make reservations at one of them be sure to *check that
-the rate you are quoted is for all nights of your stay*.
+10010, USA. There are several hotels nearby in Manhattan, but some will be 
+expensive; many offer a government rate, though. If you make reservations at 
+one of them be sure to *check that the rate you are quoted is for all nights 
+of your stay*.
 
 Alternatives that are a short and convenient train ride away can be found in:
 
