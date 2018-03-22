@@ -80,12 +80,18 @@ expensive; many offer a government rate, though. If you make reservations at
 one of them be sure to *check that the rate you are quoted is for all nights 
 of your stay*.
 
-Alternatives that are a short and convenient train ride away can be found in:
+The SOC has identified three lodging options near a train station with quick service to conference venue.
+All three options are within short walking distance of each other; they are offer a range in price and quality.
 
-+ Hoboken, NJ: take PATH train towards towards 33rd street (NOT World Trade
-  Center), and get off at 23rd street.
-+ Brooklyn, NY: stay near the L train (gray line), take to Union Square in
-  Manhattan.
+- Doubletree by Hilton Hotel & Suites Jersey City; approximately $265/night plus tax. `Direct link to hotel site <http://doubletree3.hilton.com/en/hotels/new-jersey/doubletree-by-hilton-hotel-and-suites-jersey-city-EWRWTDT/index.html>`_.
+- Candlewood Suites Jersey City, approximately $180/night plus tax. `Direct link to Candlewood site <https://www.ihg.com/candlewood/hotels/us/en/jersey-city/ewrjc/hoteldetail>`_.
+- The Holland Hotel, approximately $135/night plus tax. The `hotel site is here <https://thehollandhotel.com/contact-us/>`_, but to obtain this rate you need to call the hotel and mention that you are booking with "Python in Astronomy".  The SOC identified this hotel to provide a less expensive lodging option. We encourage you to read reviews of the hotel before booking; the accommodations are relatively basic.
+
+Tax for each of these hotels will add around 15% to the nightly rates.
+Other relatively inexpensive accommodation in the New York City area can be found in Chinatown, Hoboken, and Jersey City.
+All three of these have easy public transit and Uber into NYC to the conference location.
+If you go to Brooklyn or Queens, just make sure that you are close to a subway station.
+The subway is easy to use and reliable.
 
 
 Sponsors
