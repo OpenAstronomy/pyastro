@@ -75,19 +75,19 @@ Lodging information
 ###################
 
 The Flatiron Institute is located in Manhattan at: 162 5th Ave, New York, NY
-10010, USA. There are several hotels nearby in Manhattan, but some will be 
-expensive; many offer a government rate, though. If you make reservations at 
-one of them be sure to *check that the rate you are quoted is for all nights 
+10010, USA. There are several hotels nearby in Manhattan, but some will be
+expensive; many offer a government rate, though. If you make reservations at
+one of them be sure to *check that the rate you are quoted is for all nights
 of your stay*.
 
 The SOC has identified three lodging options near a train station with quick service to conference venue.
 All three options are within short walking distance of each other; they are offer a range in price and quality.
 
 - Doubletree by Hilton Hotel & Suites Jersey City; approximately $265/night plus tax. `Direct link to hotel site <http://doubletree3.hilton.com/en/hotels/new-jersey/doubletree-by-hilton-hotel-and-suites-jersey-city-EWRWTDT/index.html>`_.
-- Candlewood Suites Jersey City, approximately $180/night plus tax. `Direct link to Candlewood site <https://www.ihg.com/candlewood/hotels/us/en/jersey-city/ewrjc/hoteldetail>`_.
+- Candlewood Suites Jersey City, with a **reduced price through Apr 15** of $165/night plus tax (single bed), $185/night plus tax (bed + pull-out couch) if you reserve with this link:  `Direct link to Candlewood site <https://www.candlewoodsuites.com/redirect?path=hd&brandCode=CW&localeCode=en&regionCode=1&hotelCode=EWRJC&_PMID=99801505&GPC=PIN&viewfullsite=true>`_.
 - The Holland Hotel, approximately $135/night plus tax. The `hotel site is here <https://thehollandhotel.com/contact-us/>`_, but to obtain this rate you need to call the hotel and mention that you are booking with "Python in Astronomy".  The SOC identified this hotel to provide a less expensive lodging option. We encourage you to read reviews of the hotel before booking; the accommodations are relatively basic.
 
-Tax for each of these hotels will add around 15% to the nightly rates.
+Tax for each of these hotels will add around 14% to the nightly rates.
 Other relatively inexpensive accommodation in the New York City area can be found in Chinatown, Hoboken, and Jersey City.
 All three of these have easy public transit and Uber into NYC to the conference location.
 If you go to Brooklyn or Queens, just make sure that you are close to a subway station.
