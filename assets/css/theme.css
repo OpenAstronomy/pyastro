@@ -131,7 +131,7 @@ table {
 }
 
 table, th, td {
-    border: 0px none;
+    border: 1px solid grey;
 }
 
 img.align-center {
