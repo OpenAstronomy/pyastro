@@ -60,7 +60,7 @@ However, quantifying the clustering strength requires computing pair-wise separa
 Since large galaxy surveys, and consequently the theoretical models, contain millions of galaxies, computing the correlation function becomes a bottleneck in the analysis pipeline.
 With upcoming surveys like Large Synoptic Survey Telescope and the Square Kilometre Array (SKA), the number of detected sources will increase many-folds, and will exacerbate the bottleneck.
 I will show that software tuned to the underlying CPU hardware can speed up the calculation by almost two orders of magnitude.
-For modern CPUs, such a tuning involves proper utilization of the cache hierarchy, vectorized code targeting the Single Instruction Multiple Data (SIMD) capable wide vector registers as well as {\em many-core} parallelization.
+For modern CPUs, such a tuning involves proper utilization of the cache hierarchy, vectorized code targeting the Single Instruction Multiple Data (SIMD) capable wide vector registers as well as *many-core* parallelization.
 Here I present Corrfunc --  a suite of OpenMP-parallelized clustering codes that exploit current CPU micro-architecture with custom Advanced Vector Extensions (AVX) and Streaming SIMD Extensions (SSE) intrinsics.
 Corrfunc can compute a variety of correlation functions for source positions in either a Cartesian geometry (i.e., generated from cosmological simulations) or for positions on the sky.
 The algorithm within Corrfunc can be easily adapted to a variety of different measurements and has already been implemented for nearest neighbour searches, group finding in galaxy surveys, weak lensing measurements etc.
