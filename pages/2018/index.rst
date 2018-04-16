@@ -122,7 +122,7 @@ Below are some notes on some important aspects of the conference program:
   These will run in parallel with the pre-organised sessions.
 
 *Lightning talks*
-  These will provide an opportunity for attendees to make short (~5 minutes) presentations on any topic.
+  These will provide an opportunity for attendees to make short (3-5 minutes) presentations on any topic.
 
 *Hack day*
   Thursday's schedule is deliberately free of talks and unconferences to allow attendees to spend the whole day hacking on a project of their choice.
