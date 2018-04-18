@@ -38,79 +38,261 @@ All participants at the conference will be expected to follow the `code of condu
 Program
 #######
 
-..
-   When they are finalized, the program and talk abstracts for the conference will be available here.
-   There will also be links to the live stream, twitter feed and Google Drive proceedings page containing additional materials.
+.. table::
+  :widths: 10, 50
 
-+---------+-----------------------+-----------------------+------------------+-----------------+---------------+
-|         |Monday                 |Tuesday                |Wednesday         |Thursday         |Friday         |
-|         |                       |                       |                  |                 |               |
-+=========+=======================+=======================+==================+=================+===============+
-|09:00am  |Coffee                 |Coffee                 |Coffee            |Coffee           |Coffee         |
-|         |                       |                       |                  |                 |               |
-+---------+-----------------------+-----------------------+------------------+-----------------+---------------+
-|09:30am  |Welcome talk (Kelle    |Talks (Adrian          |Talks (Arfon      |Hack day         |Unconferences  |
-|         |Cruz, LOC)             |Price-Whelan, Danny    |Smith, Monica     |introduction and |               |
-|         |                       |Ryan)                  |Bobra, Manodeep   |pitches          |               |
-|         |                       |                       |Sinha)            |                 |               |
-|         |                       |                       |                  |                 |               |
-+---------+-----------------------+                       |                  +-----------------+---------------+
-|10:00am  |Introductions          |                       |                  |Hack             |Unconferences  |
-|         |(everyone)             |                       |                  |shopping         |               |
-|         |                       |                       |                  |                 |               |
-|         |                       |                       |                  |                 |               |
-|         |                       |                       |                  |                 |               |
-+---------+                       +-----------------------+------------------+-----------------+---------------+
-|10:30am  |                       |Coffee                 |Coffee            |Coffee           |Coffee         |
-|         |                       |                       |                  |                 |               |
-+---------+-----------------------+-----------------------+------------------+-----------------+---------------+
-|11:00am  |Coffee                 |Talks (Will Barnes,    |Talks (Pey Lian   |Hacking          |Hacking        |
-|         |                       |Juan Luis Cano, Nick   |Lim, Bas          |                 |(finishing and |
-+---------+-----------------------+Earl)                  |Swinkels,         |                 |tidying up hack|
-|11:30am  |Talk (Karl Gordon)     |                       |Stuart Mumford)   |                 |day projects)  |
-|         |                       |                       |                  |                 |               |
-+---------+-----------------------+-----------------------+------------------+                 +---------------+
-|12:00pm  |Pitches for            |Pitches for            |Pitches for       |                 |Lunch          |
-|         |unconference           |unconference sessions  |unconference      |                 |               |
-|         |sessions               |                       |sessions          |                 |               |
-+---------+-----------------------+-----------------------+------------------+-----------------+               |
-|12:30pm  |Lunch                  |Lunch                  |Lunch             |Lunch            |               |
-|         |                       |                       |                  |                 |               |
-+---------+                       |                       |                  |                 +---------------+
-|1:00pm   |                       |                       |                  |                 |Hack day       |
-|         |                       |                       |                  |                 |project        |
-+---------+-----------------------+-----------------------+------------------+-----------------+presentations  |
-|1:30pm   |Unconferences/tutorials|Unconferences/tutorials|Unconference      |Hacking          |               |
-|         |                       |                       |                  |                 |               |
-+---------+                       |                       |                  |                 +---------------+
-|2:00pm   |                       |                       |                  |                 |Wrap-up,       |
-|         |                       |                       |                  |                 |summary and    |
-|         |                       |                       |                  |                 |survey         |
-+---------+-----------------------+-----------------------+------------------+                 +---------------+
-|2:30pm   |Unconferences/tutorials|Unconferences/tutorials|Coffee            |                 |Coffee         |
-|         |                       |                       |                  |                 |               |
-+---------+                       |                       +------------------+-----------------+---------------+
-|3:00pm   |                       |                       |Summary of        |Coffee           |Talk (Daniel   |
-|         |                       |                       |unconferences     |                 |Foreman-Mackey)|
-+---------+-----------------------+-----------------------+------------------+-----------------+               |
-|3:30pm   |Coffee                 |Coffee                 |Hack day          |Hacking          |               |
-|         |                       |                       |pre-pitches       |                 |               |
-+---------+-----------------------+-----------------------+------------------+                 |               |
-|4:00pm   |Summary of             |Summary of             |Public talk       |                 |               |
-|         |unconferences          |unconferences          |reception -       |                 |               |
-+---------+-----------------------+-----------------------+tea/snacks        |                 |               |
-|4:30pm   |Lightning talks        |Lightning talks        |                  |                 |               |
-|         |                       |                       |                  |                 |               |
-+---------+                       |                       +------------------+-----------------+---------------+
-|5:00pm   |                       |                       |Public talk       |Hack             |Wine and       |
-|         |                       |                       |(Kelle Cruz)      |check-in         |cheese         |
-+---------+-----------------------+-----------------------+                  |                 +---------------+
-|5:30pm   |                       |                       |                  |                 |               |
-|         |                       |                       |                  |                 |               |
-+---------+-----------------------+-----------------------+                  +-----------------+---------------+
-|6:00pm   |Wine and cheese        |                       |                  |Conference       |               |
-|         |                       |                       |                  |dinner           |               |
-+---------+-----------------------+-----------------------+------------------+-----------------+---------------+
+  +---------+-----------------------+
+  |         |Monday                 |
+  +=========+=======================+
+  |09:00am  |Coffee                 |
+  +---------+-----------------------+
+  |09:30am  |Welcome talk (Kelle    |
+  |         |Cruz, LOC)             |
+  +---------+-----------------------+
+  |10:00am  |Introductions          |
+  |         |(everyone)             |
+  +---------+                       |
+  |10:30am  |                       |
+  +---------+-----------------------+
+  |11:00am  |Coffee                 |
+  +---------+-----------------------+
+  |11:30am  |Talk (Karl Gordon)     |
+  +---------+-----------------------+
+  |12:00pm  |Pitches for            |
+  |         |unconference           |
+  |         |sessions               |
+  +---------+-----------------------+
+  |12:30pm  |Lunch                  |
+  +---------+                       |
+  |1:00pm   |                       |
+  +---------+-----------------------+
+  |1:30pm   |Unconferences/tutorials|
+  +---------+                       |
+  |2:00pm   |                       |
+  +---------+-----------------------+
+  |2:30pm   |Unconferences/tutorials|
+  +---------+                       |
+  |3:00pm   |                       |
+  +---------+-----------------------+
+  |3:30pm   |Coffee                 |
+  +---------+-----------------------+
+  |4:00pm   |Summary of             |
+  |         |unconferences          |
+  +---------+-----------------------+
+  |4:30pm   |Lightning talks        |
+  +---------+                       |
+  |5:00pm   |                       |
+  +---------+-----------------------+
+  |5:30pm   |                       |
+  +---------+-----------------------+
+  |6:00pm   |Wine and cheese        |
+  +---------+-----------------------+
+
+.. table::
+  :widths: 10, 50
+
+  +---------+-----------------------+
+  |         |Tuesday                |
+  +=========+=======================+
+  |09:00am  |Coffee                 |
+  +---------+-----------------------+
+  |09:30am  |Talks (Adrian          |
+  |         |Price-Whelan, Danny    |
+  |         |Ryan)                  |
+  +---------+                       |
+  |10:00am  |                       |
+  +---------+-----------------------+
+  |10:30am  |Coffee                 |
+  +---------+-----------------------+
+  |11:00am  |Talks (Will Barnes,    |
+  |         |Juan Luis Cano, Nick   |
+  +---------+Earl)                  |
+  |11:30am  |                       |
+  +---------+-----------------------+
+  |12:00pm  |Pitches for            |
+  |         |unconference sessions  |
+  +---------+-----------------------+
+  |12:30pm  |Lunch                  |
+  +---------+                       |
+  |1:00pm   |                       |
+  +---------+-----------------------+
+  |1:30pm   |Unconferences/tutorials|
+  +---------+                       |
+  |2:00pm   |                       |
+  +---------+-----------------------+
+  |2:30pm   |Unconferences/tutorials|
+  +---------+                       |
+  |3:00pm   |                       |
+  +---------+-----------------------+
+  |3:30pm   |Coffee                 |
+  +---------+-----------------------+
+  |4:00pm   |Summary of             |
+  |         |unconferences          |
+  +---------+-----------------------+
+  |4:30pm   |Lightning talks        |
+  +---------+                       +
+  |5:00pm   |                       |
+  +---------+-----------------------+
+  |5:30pm   |                       |
+  +---------+-----------------------+
+  |6:00pm   |                       |
+  +---------+-----------------------+
+
+.. table::
+  :widths: 10, 50
+
+  +---------+------------------+
+  |         |Wednesday         |
+  |         |                  |
+  +=========+==================+
+  |09:00am  |Coffee            |
+  +---------+------------------+
+  |09:30am  |Talks (Arfon      |
+  |         |Smith, Monica     |
+  |         |Bobra, Manodeep   |
+  |         |Sinha)            |
+  +---------+                  +
+  |10:00am  |                  |
+  +---------+------------------+
+  |10:30am  |Coffee            |
+  +---------+------------------+
+  |11:00am  |Talks (Pey Lian   |
+  |         |Lim, Bas          |
+  +---------+Swinkels,         |
+  |11:30am  |Stuart Mumford)   |
+  +---------+------------------+
+  |12:00pm  |Pitches for       |
+  |         |unconference      |
+  |         |sessions          |
+  +---------+------------------+
+  |12:30pm  |Lunch             |
+  +---------+                  |
+  |1:00pm   |                  |
+  +---------+------------------+
+  |1:30pm   |Unconference      |
+  +---------+                  |
+  |2:00pm   |                  |
+  +---------+------------------+
+  |2:30pm   |Coffee            |
+  +---------+------------------+
+  |3:00pm   |Summary of        |
+  |         |unconferences     |
+  +---------+------------------+
+  |3:30pm   |Hack day          |
+  |         |pre-pitches       |
+  +---------+------------------+
+  |4:00pm   |Public talk       |
+  |         |reception -       |
+  +---------+tea/snacks        |
+  |4:30pm   |                  |
+  +---------+------------------+
+  |5:00pm   |Public talk       |
+  |         |(Kelle Cruz)      |
+  +---------+                  |
+  |5:30pm   |                  |
+  +---------+                  +
+  |6:00pm   |                  |
+  +---------+------------------+
+
+.. table::
+  :widths: 10, 50
+
+  +---------+-----------------+
+  |         |Thursday         |
+  +=========+=================+
+  |09:00am  |Coffee           |
+  +---------+-----------------+
+  |09:30am  |Hack day         |
+  |         |introduction and |
+  |         |pitches          |
+  +---------+-----------------+
+  |10:00am  |Hack             |
+  |         |shopping         |
+  +---------+-----------------+
+  |10:30am  |Coffee           |
+  +---------+-----------------+
+  |11:00am  |Hacking          |
+  +---------+                 |
+  |11:30am  |                 |
+  +---------+                 +
+  |12:00pm  |                 |
+  +---------+-----------------+
+  |12:30pm  |Lunch            |
+  +---------+                 +
+  |1:00pm   |                 |
+  +---------+-----------------+
+  |1:30pm   |Hacking          |
+  +---------+                 +
+  |2:00pm   |                 |
+  +---------+                 +
+  |2:30pm   |                 |
+  +---------+-----------------+
+  |3:00pm   |Coffee           |
+  +---------+-----------------+
+  |3:30pm   |Hacking          |
+  +---------+                 +
+  |4:00pm   |                 |
+  +---------+                 |
+  |4:30pm   |                 |
+  +---------+-----------------+
+  |5:00pm   |Hack             |
+  |         |check-in         |
+  +---------+                 +
+  |5:30pm   |                 |
+  +---------+-----------------+
+  |6:00pm   |Conference       |
+  |         |dinner           |
+  +---------+-----------------+
+
+.. table::
+  :widths: 10, 50
+
+  +---------+-----------------+
+  |         |Friday           |
+  +=========+=================+
+  |09:00am  |Coffee           |
+  +---------+-----------------+
+  |09:30am  |Unconferences    |
+  +---------+-----------------+
+  |10:00am  |Unconferences    |
+  +---------+-----------------+
+  |10:30am  |Coffee           |
+  +---------+-----------------+
+  |11:00am  |Hacking          |
+  |         |(finishing and   |
+  +---------+tidying up hack  |
+  |11:30am  |day projects)    |
+  +---------+-----------------+
+  |12:00pm  |Lunch            |
+  +---------+                 |
+  |12:30pm  |                 |
+  +---------+-----------------+
+  |1:00pm   |Hack day         |
+  |         |project          |
+  +---------+presentations    |
+  |1:30pm   |                 |
+  +---------+-----------------+
+  |2:00pm   |Wrap-up,         |
+  |         |summary and      |
+  |         |survey           |
+  +---------+-----------------+
+  |2:30pm   |Coffee           |
+  +---------+-----------------+
+  |3:00pm   |Talk (Daniel     |
+  |         |Foreman-Mackey)  |
+  +---------+                 |
+  |3:30pm   |                 |
+  +---------+-----------------+
+  |4:00pm   |Wine and cheese  |
+  +---------+                 |
+  |4:30pm   |                 |
+  +---------+-----------------+
+  |5:00pm   |                 |
+  +---------+-----------------+
+  |5:30pm   |                 |
+  +---------+-----------------+
+  |6:00pm   |                 |
+  +---------+-----------------+
 
 ..
    The full list of talk titles and abstracts can be found here. **PUT A LINK HERE**
@@ -122,7 +304,7 @@ Below are some notes on some important aspects of the conference program:
   These will run in parallel with the pre-organised sessions.
 
 *Lightning talks*
-  These will provide an opportunity for attendees to make short (~5 minutes) presentations on any topic.
+  These will provide an opportunity for attendees to make short (3-5 minutes) presentations on any topic.
 
 *Hack day*
   Thursday's schedule is deliberately free of talks and unconferences to allow attendees to spend the whole day hacking on a project of their choice.
