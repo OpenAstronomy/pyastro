@@ -1,4 +1,4 @@
-.. title: Python in Astronomy 2018
+.. title: PyAstro 2018 schedule
 
 .. table::
   :widths: 10, 50
