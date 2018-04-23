@@ -63,11 +63,7 @@ The local timezone of the conference is EDT (UTC-4).
 The videos will then be saved and viewable on YouTube afterwards.
 
 We encourage all participants (including remote participants) to join our `Slack channel <https://join.slack.com/t/pyastro/shared_invite/enQtMzQ2NDQ5NTgyOTkyLWIwNGE2NWU1M2MyZjMzYzE5ZDM2OGQ0YjEwYzM1ZjcxMTdmOTM5ODk1OThhZGFmMTA0MmFhY2EzZTA1MTIzYTc>`_ to allow people who couldn't attend to follow along, and to interact in real-time with other participants!
-This chat room will also be the most direct way for anyone remotely following along to ask questions during the livestream.
-
-..
-  **This bit to be uncommented when the bridge is up and running**
-  There will also be a bridged `Matrix community <https://chat.openastronomy.org/#/group/+pyastro:matrix.org>`_ which will mirror the rooms in the Slack channel.
+This chat room will also be the most direct way for anyone remotely following along to ask questions during the livestream. There is also a `Matrix community <https://chat.openastronomy.org/#/group/+pyastro18:openastronomy.org>`_ which will mirror the rooms in the Slack channel.
 
 Organising Committee
 ####################
