@@ -50,11 +50,11 @@ GITHUB_COMMIT_SOURCE=False
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "Python in Astronomy"),
+        ("/", "Home"),
         ("/2018/", "2018"),
         ((("/2017/", "2017"),
           ("/2016/", "2016"),
-          ("/2015/", "2015")), "Previous Conferences"),
+          ("/2015/", "2015")), "Past Years"),
         ("/code-of-conduct/", "Code of Conduct")
     ),
 }
