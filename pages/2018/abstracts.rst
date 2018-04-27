@@ -34,8 +34,8 @@ It also ships simple methods for orbit plotting and makes heavy use of astropy.u
 
 In this talk I will present benchmarks of some poliastro algorithms accelerated with numba against its FORTRAN counterparts, review its interactive plotting capabilities and comment about the validation strategies used for the algorithms.
 
-SpectroscoPy - Nick Earl
-########################
+Python Packages for Spectroscopy - Nick Earl
+##########################################################################
 
 How to get career credit for writing software - Arfon Smith
 ###########################################################
