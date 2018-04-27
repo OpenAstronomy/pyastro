@@ -81,8 +81,8 @@ The last 2 years saw the spectacular birth of Gravitational Wave astronomy, whic
 I will give a quick overview of the recent discoveries, and then explain how Python plays a key role in this field.
 I will focus on the automation of the Virgo interferometer and on analysis tools used for understanding the disturbances that are limiting the sensitivity of these complex instruments.
 
-DKIST - Stuart Mumford
-######################
+Developing End User Tools for DKIST Data Analysis - Stuart Mumford
+##################################################################
 
 The Daniel K. Inouye Solar Telescope (DKIST) is a 4m solar telescope currently under construction on Haleakalā in Hawaii.
 In this talk I will give an overview of the software under development to enable users to perform scientific analysis on the data collected by the DKIST.

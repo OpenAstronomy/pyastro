@@ -120,7 +120,7 @@
   |         |                                                                                               |
   |         |*Bas Swinkels*: **The role of Python in the first detection of Gravitational Waves**           |
   +---------+                                                                                               |
-  |11:30am  |*Stuart Mumford*: **Python at DKIST**                                                          |
+  |11:30am  |*Stuart Mumford*: **Developing End User Tools for DKIST Data Analysis**                        |
   +---------+-----------------------------------------------------------------------------------------------+
   |12:00pm  |Pitches for unconference                                                                       |
   |         |sessions                                                                                       |
