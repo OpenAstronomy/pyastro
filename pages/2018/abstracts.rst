@@ -1,7 +1,7 @@
 .. title: Talk titles and abstracts
 
-Something about PyAstro - Karl Gordon
-#####################################
+How Python in Astronomy changed my life - Karl Gordon
+#####################################################
 
 Astropy - Adrian Price-Whelan
 #############################
