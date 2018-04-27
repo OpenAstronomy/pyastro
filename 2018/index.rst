@@ -86,7 +86,7 @@ All three options are within short walking distance of each other; they are offe
 
 - Doubletree by Hilton Hotel & Suites Jersey City; approximately $265/night plus tax. `Direct link to hotel site <http://doubletree3.hilton.com/en/hotels/new-jersey/doubletree-by-hilton-hotel-and-suites-jersey-city-EWRWTDT/index.html>`_.
 - Candlewood Suites Jersey City, with a **reduced price through Apr 15** of $165/night plus tax (single bed), $185/night plus tax (bed + pull-out couch) if you reserve with this link:  `Direct link to Candlewood site <https://www.candlewoodsuites.com/redirect?path=hd&brandCode=CW&localeCode=en&regionCode=1&hotelCode=EWRJC&_PMID=99801505&GPC=PIN&viewfullsite=true>`_.
-- The Holland Hotel, approximately $135/night plus tax. The `hotel site is here <https://thehollandhotel.com/contact-us/>`_, but to obtain this rate you need to call the hotel and mention that you are booking with "Python in Astronomy".  The SOC identified this hotel to provide a less expensive lodging option. We encourage you to read reviews of the hotel before booking; the accommodations are relatively basic.
+- The Holland Hotel, approximately $135/night plus tax. The `hotel site is here <https://thehollandhotel.com/contact-us/>`_, but to obtain this rate you need to call the hotel and mention that you are booking with "Python in Astronomy".
 
 Tax for each of these hotels will add around 14% to the nightly rates.
 Other relatively inexpensive accommodation in the New York City area can be found in Chinatown, Hoboken, and Jersey City.

@@ -18,7 +18,10 @@
   +---------+-----------------------+
   |11:00am  |Coffee                 |
   +---------+-----------------------+
-  |11:30am  |Talk (Karl Gordon)     |
+  |11:30am  |*Karl Gordon*: **How   |
+  |         |Python                 |
+  |         |in Astronomy Changed My|
+  |         |Professional Life**    |
   +---------+-----------------------+
   |12:00pm  |Pitches for            |
   |         |unconference           |
@@ -58,17 +61,31 @@
   +=========+=======================+
   |09:00am  |Coffee                 |
   +---------+-----------------------+
-  |09:30am  |Talks (Adrian          |
-  |         |Price-Whelan, Danny    |
-  |         |Ryan)                  |
-  +---------+                       |
-  |10:00am  |                       |
+  |09:30am  |*Adrian Price-Whelan*: |
+  |         |**Astropy Overview**   |
+  +---------+-----------------------+
+  |10:00am  |*Danny Ryan*:          |
+  |         |**SunPy Overview**     |
   +---------+-----------------------+
   |10:30am  |Coffee                 |
   +---------+-----------------------+
-  |11:00am  |Talks (Will Barnes,    |
-  |         |Juan Luis Cano, Nick   |
-  +---------+Earl)                  |
+  |11:00am  |*Will Barnes*: **A     |
+  |         |Complete               |
+  |         |fiasco - The           |
+  |         |Difficulties of Dealing|
+  |         |with Atomic Data and a |
+  |         |Possible Pythonic      |
+  |         |Solution**             |
+  |         |                       |
+  |         |*Juan Luis Cano*:      |
+  |         |**Catch                |
+  |         |that asteroid with     |
+  |         |poliastro**            |
+  |         |                       |
+  |         |*Nick Earl*: **Python  |
+  |         |Packages for           |
+  |         |Spectroscopy**         |
+  +---------+                       |
   |11:30am  |                       |
   +---------+-----------------------+
   |12:00pm  |Pitches for            |
@@ -109,19 +126,48 @@
   +=========+==================+
   |09:00am  |Coffee            |
   +---------+------------------+
-  |09:30am  |Talks (Arfon      |
-  |         |Smith, Monica     |
-  |         |Bobra, Manodeep   |
-  |         |Sinha)            |
+  |09:30am  |*Arfon Smith*:    |
+  |         |**How             |
+  |         |to get career     |
+  |         |credit for writing|
+  |         |software**        |
+  |         |                  |
+  |         |*Monica Bobra*:   |
+  |         |**Predicting Solar|
+  |         |Flares Using      |
+  |         |Machine-Learning  |
+  |         |Methods**         |
+  |         |                  |
+  |         |*Manodeep Sinha*: |
+  |         |**More Usable     |
+  |         |Flops             |
+  |         |per Watt: A Story |
+  |         |About a           |
+  |         |Highly-optimized  |
+  |         |Correlation       |
+  |         |Function Code**   |
   +---------+                  +
   |10:00am  |                  |
   +---------+------------------+
   |10:30am  |Coffee            |
   +---------+------------------+
-  |11:00am  |Talks (Pey Lian   |
-  |         |Lim, Bas          |
-  +---------+Swinkels,         |
-  |11:30am  |Stuart Mumford)   |
+  |11:00am  |*Pey Lian Lim*:   |
+  |         |**Data Analysis   |
+  |         |tools for JWST**  |
+  |         |                  |
+  |         |*Bas Swinkels*:   |
+  |         |**The role of     |
+  |         |Python            |
+  |         |in the first      |
+  |         |detection of      |
+  |         |Gravitational     |
+  |         |Waves**           |
+  |         |                  |
+  |         |*Stuart Mumford*: |
+  |         |**Python at       |
+  |         |DKIST**           |
+  +---------+                  |
+  |11:30am  |                  |
   +---------+------------------+
   |12:00pm  |Pitches for       |
   |         |unconference      |
@@ -148,8 +194,13 @@
   +---------+tea/snacks        |
   |4:30pm   |                  |
   +---------+------------------+
-  |5:00pm   |Public talk       |
-  |         |(Kelle Cruz)      |
+  |5:00pm   |*Kelle Cruz:*     |
+  |         |**Collaborations  |
+  |         |in the Extreme:   |
+  |         |the rise of open  |
+  |         |code development  |
+  |         |in the scientific |
+  |         |community**       |
   +---------+                  |
   |5:30pm   |                  |
   +---------+                  +
