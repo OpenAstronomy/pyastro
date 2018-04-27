@@ -68,7 +68,7 @@ ul.navbar-nav {
 .navbar-inverse .navbar-nav > li > a::after {
     display:block;
     content:attr(data-text);
-    font-weight:bold;
+    /* font-weight:bold; */
     height:1px;
     color:transparent;
     overflow:hidden;
@@ -79,7 +79,7 @@ ul.navbar-nav {
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
     background-color: transparent;
     color: inherit;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
@@ -111,7 +111,7 @@ ul.navbar-nav {
     display:block;
     content:attr(data-text);
     font-size: 24px;
-    font-weight:bold;
+    /* font-weight:bold; */
     height:1px;
     color:transparent;
     overflow:hidden;
