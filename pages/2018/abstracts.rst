@@ -1,7 +1,7 @@
 .. title: Talk titles and abstracts
 
-How Python in Astronomy changed my life - Karl Gordon
-#####################################################
+How Python in Astronomy has Impacted My Professional Life - Karl Gordon
+#######################################################################
 
 Astropy - Adrian Price-Whelan
 #############################
