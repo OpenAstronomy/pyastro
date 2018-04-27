@@ -294,8 +294,7 @@ Program
   |6:00pm   |                 |
   +---------+-----------------+
 
-..
-   The full list of talk titles and abstracts can be found here. **PUT A LINK HERE**
+The full list of talk titles and abstracts can be found `here </2018/abstracts>`_.
 
 Below are some notes on some important aspects of the conference program:
 
