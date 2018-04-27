@@ -40,8 +40,7 @@ Program
 
 The full conference schedule and related info `can be found here </2018/schedule>`_.
 
-..
-   The full list of talk titles and abstracts can be found here. **PUT A LINK HERE**
+The full list of talk titles and abstracts can be found `here </2018/abstracts>`_.
 
 Social Media
 ############

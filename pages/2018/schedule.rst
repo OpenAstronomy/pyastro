@@ -16,7 +16,8 @@
   +---------+------------------------------------------------------------------------+
   |11:00am  |Coffee                                                                  |
   +---------+------------------------------------------------------------------------+
-  |11:30am  |*Karl Gordon*: **How Python in Astronomy Changed My Professional Life** |
+  |11:30am  |*Karl Gordon*: **How Python in Astronomy has Impacted My Professional   |
+  |         |Life**                                                                  |
   +---------+------------------------------------------------------------------------+
   |12:00pm  |Pitches for unconference sessions                                       |
   +---------+------------------------------------------------------------------------+
@@ -67,7 +68,7 @@
   |         |                                                                                                   |
   +---------+*Juan Luis Cano*: **Catch that asteroid with poliastro**                                           |
   |11:30am  |                                                                                                   |
-  |         |*Nick Earl*: **Python Packages forSpectroscopy**                                                   |
+  |         |*Nick Earl*: **Python Packages for Spectroscopy**                                                  |
   +---------+---------------------------------------------------------------------------------------------------+
   |12:00pm  |Pitches for unconference sessions                                                                  |
   |         |                                                                                                   |
@@ -120,7 +121,7 @@
   |         |                                                                                               |
   |         |*Bas Swinkels*: **The role of Python in the first detection of Gravitational Waves**           |
   +---------+                                                                                               |
-  |11:30am  |*Stuart Mumford*: **Python at DKIST**                                                          |
+  |11:30am  |*Stuart Mumford*: **Developing End User Tools for DKIST Data Analysis**                        |
   +---------+-----------------------------------------------------------------------------------------------+
   |12:00pm  |Pitches for unconference                                                                       |
   |         |sessions                                                                                       |
