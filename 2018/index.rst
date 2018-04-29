@@ -23,11 +23,6 @@ Python packages, and share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
 Python astronomy packages.
 
-Applying/Nominating
-###################
-
-Applications have closed.
-
 Details
 #######
 
@@ -55,10 +50,14 @@ are required to follow the `code of conduct </code-of-conduct>`_.
 Livestream and Live Chat
 ########################
 
-To accommodate remote participation, we will livestream the morning plenary talks and some of the afternoon tutorials.
+To accommodate remote participation, we will livestream the talks and some of the afternoon tutorials.
 
-The link will be posted here on Monday morning (April 30th) once it's set up.
+Link for live stream: `https://simonsfoundation.zoom.us/j/828828155 <https://simonsfoundation.zoom.us/j/828828155>`_
+
+If you prefer, you can call in to hear the talks. The webinar ID is ``828 828 155``. The US number is ``1 (646) 558-8656`` or you can call one of `over 90 international numbers <https://simonsfoundation.zoom.us/zoomconference?m=yYGe3Nz7OyLl2cm4cl0EyfW7bVNpAbH->`_
+
 The local timezone of the conference is EDT (UTC-4).
+
 The videos will then be saved and viewable on YouTube afterwards.
 
 We encourage all participants (including remote participants) to join our `Slack channel <https://join.slack.com/t/pyastro/shared_invite/enQtMzQ2NDQ5NTgyOTkyLWIwNGE2NWU1M2MyZjMzYzE5ZDM2OGQ0YjEwYzM1ZjcxMTdmOTM5ODk1OThhZGFmMTA0MmFhY2EzZTA1MTIzYTc>`_ to allow people who couldn't attend to follow along, and to interact in real-time with other participants!
@@ -92,6 +91,12 @@ Other relatively inexpensive accommodation in the New York City area can be foun
 All three of these have easy public transit and Uber into NYC to the conference location.
 If you go to Brooklyn or Queens, just make sure that you are close to a subway station.
 The subway is easy to use and reliable.
+
+
+Applying/Nominating
+###################
+
+Applications have closed.
 
 
 Sponsors
