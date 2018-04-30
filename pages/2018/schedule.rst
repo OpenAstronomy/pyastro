@@ -68,7 +68,7 @@
   |         |                                                                                                   |
   +---------+*Juan Luis Cano*: **Catch that asteroid with poliastro**                                           |
   |11:30am  |                                                                                                   |
-  |         |*Nick Earl*: **Python Packages for Spectroscopy**                                                  |
+  |         |*Nick Earl*: **[The Struggles of] Developing Python Packages for Spectroscopy**                    |
   +---------+---------------------------------------------------------------------------------------------------+
   |12:00pm  |Pitches for unconference sessions                                                                  |
   |         |                                                                                                   |
