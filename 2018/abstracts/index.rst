@@ -3,6 +3,19 @@
 How Python in Astronomy has Impacted My Professional Life - Karl Gordon
 #######################################################################
 
+In short, my participation in the Python in Astronomy in 2016 taught
+me what it takes to make software that is actual useful for others and
+revealed the incredible encouraging and supportive community of
+astronomy python coders.  Just releasing software is not enough - it
+needs good documentation, automated testing, and encourage
+contributions from others.  Interacting with the astronomy python
+community has shown me that it is now better for my career to make all
+my code public.  As one illustration, I will use the
+dust_extinction package that I started after the 2016 meeting.
+This package provides dust extinction curves using
+the astropy affiliated template package and is based on the astropy
+modeling and units packages.
+
 Astropy - Adrian Price-Whelan
 #############################
 
@@ -34,8 +47,10 @@ It also ships simple methods for orbit plotting and makes heavy use of astropy.u
 
 In this talk I will present benchmarks of some poliastro algorithms accelerated with numba against its FORTRAN counterparts, review its interactive plotting capabilities and comment about the validation strategies used for the algorithms.
 
-Python Packages for Spectroscopy - Nick Earl
+[The Struggles of] Developing Python Packages for Spectroscopy - Nick Earl
 ##########################################################################
+
+An overview of some of the challenges faced in developing spectroscopic open-source packages for the astronomy community, and what we've done to try and overcome them. The talk discusses three spectroscopy-focused packages at different stages of development and how we plan to ensure community traction while working under bureaucratic constraints, building in inter-operatibility with other python packages, and providing accessibility for contributors of a wide range of programming backgrounds.
 
 How to get career credit for writing software - Arfon Smith
 ###########################################################
