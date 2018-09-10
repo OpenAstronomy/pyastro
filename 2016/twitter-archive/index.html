@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html prefix="
-og: http://ogp.me/ns#
-article: http://ogp.me/ns/article#
-" lang="en">
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>twitter-archive | Python in Astronomy</title>
 <link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="../../assets/css/colorbox.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
-<meta content="#212121" name="theme-color">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#212121">
+<meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
 <link rel="canonical" href="http://openastronomy.org/pyastro/2016/twitter-archive/">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python in Astronomy">
@@ -30,67 +29,68 @@ included the hashtag
 #pyastro16. On this page
 we present an overview of th">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2018-04-30T02:53:42Z">
+<meta property="article:published_time" content="2018-09-10T21:43:49Z">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
 
-<!-- Menubar -->
-
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
-<!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+<!-- Header and menu bar -->
+<div class="container">
+      <header class="blog-header py-3"><div class="row nbb-header align-items-center">
+          <div class="col-md-3 col-xs-2 col-sm-2" style="width: auto;">
+            <button class="navbar-toggler navbar-light bg-light nbb-navbar-toggler" type="button" data-toggle="collapse" data-target=".bs-nav-collapsible" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="http://openastronomy.org">
-                <img src="http://openastronomy.org/img/logo/logoOA_white_svg.png" alt="OpenAstronomy Logo" id="logo"></a>
+            <div class="collapse bs-nav-collapsible bootblog4-search-form-holder">
+                
+            </div>
         </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="../../" data-text="Home">Home</a>
+          <div class="col-md-6 col-xs-10 col-sm-10 bootblog4-brand" style="width: auto;">
+            <a class="navbar-brand blog-header-logo text-dark" href="http://openastronomy.org/pyastro/">
+
+            <span id="blog-title">Python in Astronomy</span>
+        </a>
+          </div>
+            <div class="col-md-3 justify-content-end align-items-center bs-nav-collapsible collapse flex-collapse bootblog4-right-nav">
+            <nav class="navbar navbar-light bg-white"><ul class="navbar-nav bootblog4-right-nav"></ul></nav>
+</div>
+    </div>
+</header><nav class="navbar navbar-expand-md navbar-light bg-white static-top"><div class="collapse navbar-collapse bs-nav-collapsible" id="bs-navbar">
+            <ul class="navbar-nav nav-fill d-flex w-100">
+<li class="nav-item">
+<a href="../../" class="nav-link">Home</a>
                 </li>
-<li>
-<a href="../../2018/" data-text="2018">2018</a>
+<li class="nav-item">
+<a href="../../2018/" class="nav-link">2018</a>
             </li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Past Years <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-<li>
-<a href="../../2017/" data-text="Past Years">2017</a>
-                    </li>
-<li>
-<a href="../" data-text="Past Years">2016</a>
-                    </li>
-<li>
-<a href="../../2015/" data-text="Past Years">2015</a>
-            </li>
-</ul>
-</li>
-<li>
-<a href="../../code-of-conduct/" data-text="Code of Conduct">Code of Conduct</a>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Past Years</a>
+            <div class="dropdown-menu">
+                    <a href="../../2017/" class="dropdown-item">2017</a>
+                    <a href="../" class="dropdown-item">2016</a>
+                    <a href="../../2015/" class="dropdown-item">2015</a>
+            </div>
+                </li>
+<li class="nav-item">
+<a href="../../code-of-conduct/" class="nav-link">Code of Conduct</a>
 
                 
             </li>
 </ul>
-<ul class="nav navbar-nav navbar-right"></ul>
 </div>
 <!-- /.navbar-collapse -->
-    </div>
-<!-- /.container -->
-</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+</nav>
+</div>
+
+<div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        <div class="row">
-            
+        
+        
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">twitter-archive</a></h1>
 
         
+
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
 <div class="section" id="march-2016">
@@ -671,6 +671,7 @@ twttr.ready(function (twttr) {
 </div>
     </div>
     
+
 </article><!--End of body content--><footer id="footer"><div class="left">
     Contents © 2018 <a href="mailto:python.in.astronomy.soc@gmail.com">Python in Astronomy</a> - 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
@@ -686,12 +687,18 @@ CC-BY-SA</a>
             
         </footer>
 </div>
-    </div>
 </div>
 
-            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/moment-with-locales.min.js"></script><script src="../../assets/js/fancydates.js"></script><script src="../../assets/js/jquery.colorbox-min.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/moment-with-locales.min.js"></script><script src="../../assets/js/fancydates.min.js"></script><!-- fancy dates --><script>
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
 </body>
 </html>
