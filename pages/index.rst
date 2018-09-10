@@ -12,9 +12,9 @@ Astronomy.
 `2018 </2018>`__
 ----------------
 
-The next conference will be held at the `Center for Computational Astrophysics
+The fourth meeting was held at the `Center for Computational Astrophysics
 <https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/>`__
-in New York on the 30th April - 4th May. More details can be found `here </2018>`__.
+in New York on the 30th April - 4th May 2018. More details can be found `here </2018>`__.
 
 `2017 </2017>`__
 ----------------
