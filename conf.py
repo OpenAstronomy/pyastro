@@ -112,7 +112,7 @@ TIMEZONE = "UTC"
 
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = 'YYYY-MM-dd HH:mm'
 
 
 # One or more folders containing files to be copied as-is into the output.
