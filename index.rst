@@ -13,7 +13,7 @@ Astronomy.
 ----
 
 Next year's Python in Astronomy conference will be at the `Space Telescope Science
-Institute </http://www.stsci.edu/>`__ in Baltlimore in July.
+Institute </http://www.stsci.edu/>`__ in Baltimore in July.
 
 `2018 </2018>`__
 ----------------
