@@ -23,6 +23,11 @@ Python packages, and share knowledge on Python packages and techniques. It will
 also provide training and educational materials for users and developers of
 Python astronomy packages.
 
+Proceedings
+###########
+You can view recordings of most of the talks from the conference on the YouTube `Python in Astronomy 2018 playist <https://www.youtube.com/playlist?list=PL7P5HEbvYRSbLyM84sujBN2xPhIW5zDxk>`__.
+Other resources including unconference proceedings will be added here soon.
+
 Details
 #######
 
