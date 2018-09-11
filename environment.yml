@@ -4,7 +4,7 @@ dependencies:
 - lxml
 - jinja2
 - pip:
-  - nikola
+  - nikola<8
   - ws4py
   - watchdog
   - ghp-import2
