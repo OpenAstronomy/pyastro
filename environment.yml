@@ -5,6 +5,7 @@ dependencies:
 - jinja2
 - pip:
   - nikola<8
+  - jinja2
   - ws4py
   - watchdog
   - ghp-import2
