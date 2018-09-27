@@ -51,8 +51,9 @@ GITHUB_COMMIT_SOURCE=False
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/2018/", "2018"),
-        ((("/2017/", "2017"),
+        ("/2019/", "2019"),
+        ((("/2018/", "2018"),
+          ("/2017/", "2017"),
           ("/2016/", "2016"),
           ("/2015/", "2015")), "Past Years"),
         ("/code-of-conduct/", "Code of Conduct")
