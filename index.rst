@@ -9,11 +9,11 @@ Python in Astronomy is a conference series focusing on the use,
 development, and community surrounding Python packages for all types of
 Astronomy.
 
-2019
-----
+`2019 </2019>`__
+----------------
 
 Next year's Python in Astronomy conference will be at the `Space Telescope Science
-Institute </http://www.stsci.edu/>`__ in Baltimore in July.
+Institute </http://www.stsci.edu/>`__ in Baltimore on July 29th - August 2nd.
 
 `2018 </2018>`__
 ----------------
