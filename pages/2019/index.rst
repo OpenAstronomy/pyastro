@@ -23,8 +23,8 @@ All participants at the conference will be expected to follow the `code of condu
 
 More details will be made available on this page closer to the week of the conference.
 
-Applying/Nominating
-###################
+Applying
+########
 
 Applications will open soon, and a link to the application form will be put here.
 
