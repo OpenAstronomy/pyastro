@@ -10,7 +10,7 @@ Space Telescope Science Institute, Baltimore
    :align: center
    :width: 150px
 
-The fifth Python in Astronomy Conference will be held at the Space Telescope Science Institute in Baltimore from **29th July - 2nd Aug 2019**.
+The fifth Python in Astronomy Conference will be held at the Space Telescope Science Institute in Baltimore from **29th July - 2nd August 2019**.
 
 This conference series aims to bring together a wide variety of developers, educators and other contributors to Python packages in the context of all forms of astronomy.
 The conference will include unconference sessions, presentations, sprints and tutorials.
@@ -26,7 +26,12 @@ More details will be made available on this page closer to the week of the confe
 Applying
 ########
 
-Applications will open soon, and a link to the application form will be put here.
+Applications are now open!
+To apply, complete the `application form here<https://docs.google.com/forms/d/e/1FAIpQLSd3mxZ7HR0oMrW00hTO49Q8861l-mEApU_4ab-tfudB1pnDcA/viewform>`_.
+**The deadline for applications is 31st January 2019.**
+Successful applicants will ether be invited to accept a place at the conference or placed on a waiting list.
+If you are put on the waiting list, you may recieve an invitation when more places become available.
+Please contact the organising committee if you have any questions about the application process.
 
 ..
    Proceedings
@@ -61,10 +66,16 @@ To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
    ###################
 
 
-..
-   Sponsors
-   ########
+Sponsors
+########
 
+The Python in Astronomy conference series aims to be accessible to a broad and diverse range of participants.
+As part of that effort, we try to keep conference fees to a minimum and to provide funding to those applicants who need it.
+To be able to do that, we rely on generous support from external sponsors.
+
+If you would like to support the growth of the Python in Astronomy software ecosystem, please consider contacting the SOC to discuss sponsoring PyAstro19.
+
+..
    Python in Astronomy 2018 is generously supported by:
 
    Center for Computational Astrophysics at the Flatiron Institute
