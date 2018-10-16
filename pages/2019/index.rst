@@ -66,10 +66,16 @@ To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
    ###################
 
 
-..
-   Sponsors
-   ########
+Sponsors
+########
 
+The Python in Astronomy conference series aims to be accessible to a broad and diverse range of participants.
+As part of that effort, we try to keep conference fees to a minimum and to provide funding to those applicants who need it.
+To be able to do that, we rely on generous support from external sponsors.
+
+If you would like to support the growth of the Python in Astronomy software ecosystem, please consider contacting the SOC to discuss sponsoring PyAstro19.
+
+..
    Python in Astronomy 2018 is generously supported by:
 
    Center for Computational Astrophysics at the Flatiron Institute
