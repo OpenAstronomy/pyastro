@@ -22,6 +22,11 @@ The fourth meeting was held at the `Center for Computational Astrophysics
 <https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/>`__
 in New York on the 30th April - 4th May 2018. More details can be found `here </2018>`__.
 
+.. figure:: /images/pyastro18_attendees.jpg
+   :alt: Python in Astronomy 2018 Attendees, Copyright 2018 Jocelyn Dorszynski
+   :width: 600px
+   :align: center
+
 `2017 </2017>`__
 ----------------
 
