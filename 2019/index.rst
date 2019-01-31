@@ -28,7 +28,8 @@ Applying
 
 Applications are now open!
 To apply, complete the `application form here <https://docs.google.com/forms/d/e/1FAIpQLSd3mxZ7HR0oMrW00hTO49Q8861l-mEApU_4ab-tfudB1pnDcA/viewform>`_.
-**The deadline for applications is 31st January 2019.**
+|ss| The deadline for applications is 31st January 2019. |se|
+The deadline for applications has been extended until **22:00 UTC on Thursday 14th February 2019.**
 Successful applicants will ether be invited to accept a place at the conference or placed on a waiting list.
 If you are put on the waiting list, you may recieve an invitation when more places become available.
 Please contact the organising committee if you have any questions about the application process.
@@ -108,3 +109,11 @@ If you would like to support the growth of the Python in Astronomy software ecos
    .. |Aperio logo| image:: https://aperiosoftware.com/images/logo.svg
       :target: https://aperiosoftware.com/
       :width: 45%
+
+.. |ss| raw:: html
+
+        <strike>
+
+.. |se| raw:: html
+
+        </strike>
