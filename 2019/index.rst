@@ -26,11 +26,8 @@ More details will be made available on this page closer to the week of the confe
 Applying
 ########
 
-Applications are now open!
-To apply, complete the `application form here <https://docs.google.com/forms/d/e/1FAIpQLSd3mxZ7HR0oMrW00hTO49Q8861l-mEApU_4ab-tfudB1pnDcA/viewform>`_.
-|ss| The deadline for applications is 31st January 2019. |se|
-The deadline for applications has been extended until **22:00 UTC on Thursday 14th February 2019.**
-Successful applicants will ether be invited to accept a place at the conference or placed on a waiting list.
+Applications are now closed.
+Successful applicants will either be invited to accept a place at the conference or placed on a waiting list.
 If you are put on the waiting list, you may recieve an invitation when more places become available.
 Please contact the organising committee if you have any questions about the application process.
 
