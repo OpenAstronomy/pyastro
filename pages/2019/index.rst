@@ -29,6 +29,7 @@ Applying
 Applications are now closed.
 Successful applicants will either be invited to accept a place at the conference or placed on a waiting list.
 If you are put on the waiting list, you may recieve an invitation when more places become available.
+We aim to start sending out initial invitations in early March.
 Please contact the organising committee if you have any questions about the application process.
 
 ..
