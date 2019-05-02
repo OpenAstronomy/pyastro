@@ -66,7 +66,7 @@ Lodging information
 The Space Telescope Science Institute is located in Baltimore, MD, USA at: 3700
 San Martin Dr, Baltimore, MD 21218, USA. The most conveniently located hotel
 (within easy walking distance) is the
-`Inn at The Colonnade <https://doubletree3.hilton.com/en/hotels/maryland/inn-at-the-colonnade-baltimore-a-doubletree-by-hilton-hotel-BWICUDT/index.html>`
+`Inn at The Colonnade <https://doubletree3.hilton.com/en/hotels/maryland/inn-at-the-colonnade-baltimore-a-doubletree-by-hilton-hotel-BWICUDT/index.html>`_
 which has a reserved block (details to follow for registered attendees).
 
 While no other hotels are in walking distance, there are a wide range of hotels
