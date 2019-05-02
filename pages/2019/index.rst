@@ -60,10 +60,22 @@ The organising committee consists of: Drew Leonard (chair), Monica Bobra, Nichol
 
 To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
 
-..
-   Lodging information
-   ###################
+Lodging information
+###################
 
+The Space Telescope Science Institute is located in Baltimore, MD, USA at: 3700
+San Martin Dr, Baltimore, MD 21218, USA. The most conveniently located hotel
+(within easy walking distance) is the
+`Inn at The Colonnade <https://doubletree3.hilton.com/en/hotels/maryland/inn-at-the-colonnade-baltimore-a-doubletree-by-hilton-hotel-BWICUDT/index.html>`
+which has a reserved block (details to follow for registered attendees).
+
+While no other hotels are in walking distance, there are a wide range of hotels
+in downtown Baltimore which are either on public transport lines or an easy
+Uber/Lyft ride to the Institute.
+
+Alternatively, the nearby Hampden, Wyman Park, and Tuscany-Canterbury
+neighborhoods (10-20 min walk from the Institute) typically have many airbnb
+options.
 
 Sponsors
 ########
