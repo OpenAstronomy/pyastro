@@ -36,10 +36,10 @@ Please contact the organising committee if you have any questions about the appl
    Proceedings
    ###########
 
+Program
+#######
 
-..
-   Program
-   #######
+A preliminary conference schedule and related info `can be found here </2019/schedule>`_.
 
 Social Media
 ############
