@@ -56,6 +56,8 @@
   |9:30am  |*Stuart Mumford* - **DKIST Adventures in Astropy**                              |
   +--------+                                                                                |
   |10:00am |*Nate Lust* - **An Overview of Python Use in the LSST Scientific Stack**        |
+  |        |                                                                                |
+  |        |*Sophie Murray* - **Research to operations for space weather forecasting**      |
   +--------+--------------------------------------------------------------------------------+
   |10:30am |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
@@ -99,20 +101,26 @@
   +========+================================================================================+
   |9:00am  |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
-  |9:30am  |*Sophie Murray* - **Research to operations for space weather forecasting**      |
+  |9:30am  |*Brigitta Sipocz* - **astroML 2.0: Machine Learning for Astrophysics (TBC)**    |
   +--------+                                                                                |
-  |10:00am |*Curtis McCully* - **BANZAI: real-time data reduction for time domain astronomy |
+  |10:00am |*Brian Cherinka* - **Marvin: A Toolkit for Streamlined Access and Visualization |
+  |        |of the SDSS-IV MaNGA Data Set**                                                 |
+  |        |                                                                                |
+  |        |*Thomas Robitaille* - **Interactive and Multidimensional data exploration and   |
+  |        |linking with Glue**                                                             |
+  |        |                                                                                |
+  |        |*Curtis McCully* - **BANZAI: real-time data reduction for time domain astronomy |
   |        |(TBC)**                                                                         |
   +--------+--------------------------------------------------------------------------------+
   |10:30am |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
-  |11:00am |*Brigitta Sipocz* - **astroML 2.0: Machine Learning for Astrophysics (TBC)**    |
+  |11:00am |Lightning talks                                                                 |
   +--------+                                                                                |
-  |11:30am |*Brian Cherinka* - **Marvin: A Toolkit for Streamlined Access and Visualization |
-  |        |of the SDSS-IV MaNGA Data Set**                                                 |
+  |11:30am |                                                                                |
   |        |                                                                                |
-  |        |*Thomas Robitaille* - **Interactive Multidimensional data exploration and       |
-  |        |linking with Glue**                                                             |
+  |        |                                                                                |
+  |        |                                                                                |
+  |        |                                                                                |
   +--------+--------------------------------------------------------------------------------+
   |12:00pm |Pitches for unconferences                                                       |
   +--------+--------------------------------------------------------------------------------+
