@@ -16,7 +16,7 @@
   +--------+--------------------------------------------------------------------------------+
   |11:00am |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
-  |11:30am |*Perry Greenfield* - **History and present status of Python in Astronomy** (TBC)|
+  |11:30am |*Perry Greenfield* - **History and present status of Python in Astronomy**      |
   +--------+                                                                                |
   |12:00pm |*Henry Ferguson* - **The future of Python in Astronomy**                        |
   +--------+--------------------------------------------------------------------------------+
@@ -101,16 +101,16 @@
   +========+================================================================================+
   |9:00am  |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
-  |9:30am  |*Brigitta Sipocz* - **astroML 2.0: Machine Learning for Astrophysics (TBC)**    |
-  +--------+                                                                                |
-  |10:00am |*Brian Cherinka* - **Marvin: A Toolkit for Streamlined Access and Visualization |
-  |        |of the SDSS-IV MaNGA Data Set**                                                 |
-  |        |                                                                                |
+  |9:30am  |*Brian Cherinka* - **Marvin: A Toolkit for Streamlined Access and Visualization |
+  +--------+of the SDSS-IV MaNGA Data Set**                                                 |
+  |10:00am |                                                                                |
   |        |*Thomas Robitaille* - **Interactive and Multidimensional data exploration and   |
   |        |linking with Glue**                                                             |
   |        |                                                                                |
-  |        |*Curtis McCully* - **BANZAI: real-time data reduction for time domain astronomy |
-  |        |(TBC)**                                                                         |
+  |        |*Pey Lian Lim* - **Visualizing JWST data with Ginga** (TBC)                     |
+  |        |                                                                                |
+  |        |*Nicholas Murphy* - **Building an open source software ecosystem for plasma     |
+  |        |physics** (TBC)                                                                 | 
   +--------+--------------------------------------------------------------------------------+
   |10:30am |Coffee                                                                          |
   +--------+--------------------------------------------------------------------------------+
@@ -246,7 +246,7 @@
 Below are some notes on some important aspects of the conference program:
 
 *Unconference sessions*
-  During these slots, participants can run discussions, hacks, sprints, turorials or similar sessions, which they can propose during the pitches.
+  During these slots, participants can run discussions, hacks, sprints, tutorials or similar sessions, which they can propose during the pitches.
   These will run in parallel and will be selected from the proposed sessions each day.
 
 *Lightning talks*
