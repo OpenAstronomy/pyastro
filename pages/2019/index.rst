@@ -51,7 +51,7 @@ We will be using this chat throughout the conference for discussions about talks
 The twitter hashtag for this workshop is `#pyastro19 <https://twitter.com/hashtag/pyastro19>`_, and the main twitter account will be `@pyastro19 <https://twitter.com/pyastro19>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect with other participants and the wider community.
 
-**Remember, when interacting with people either in person or online, you are required to follow the `code of conduct </code-of-conduct>`_.**
+Remember, when interacting with people either in person or online, you are required to follow the `code of conduct </code-of-conduct>`_.
 
 ..
    Livestream and Live Chat
