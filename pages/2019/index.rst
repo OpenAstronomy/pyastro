@@ -41,12 +41,17 @@ Program
 
 A preliminary conference schedule and related info `can be found here </2019/schedule>`_.
 
-Social Media
-############
+Chat and Social Media
+#####################
 
-The hashtag for this workshop is `#pyastro19 <https://twitter.com/hashtag/pyastro19>`_, and the main twitter account will be `@pyastro19 <https://twitter.com/pyastro19>`_.
+We will be using both Matrix and Slack for online chat throughout the week, with a bridge to sync messages from one to the other, so people can use whichever platform they prefer.
+You can `go here to get an invitation for the Slack team <https://join.slack.com/t/pyastro/shared_invite/enQtNjkwOTk5MDc0NDgyLWM1NmUzMThjNjkyNDBjZTgxMDg0NWE0OWE1NGVlNjg2MjE0ZmIwZDZmMGY0ZDU1ZjNjYjcxZWM5NTlkYWQ3ZTM>`_, or `here to join the Matrix community <https://riot.im/app/#/group/+pyastro:openastronomy.org>`_.
+We will be using this chat throughout the conference for discussions about talks, unconferences, etc. and to facilitate remote participation, so we encourage everyone to join the chat and to share the links with anyone else who is interested in following the conference.
+
+The twitter hashtag for this workshop is `#pyastro19 <https://twitter.com/hashtag/pyastro19>`_, and the main twitter account will be `@pyastro19 <https://twitter.com/pyastro19>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect with other participants and the wider community.
-Remember, when interacting with people either in person or online, you are required to follow the `code of conduct </code-of-conduct>`_.
+
+**Remember, when interacting with people either in person or online, you are required to follow the `code of conduct </code-of-conduct>`_.**
 
 ..
    Livestream and Live Chat
