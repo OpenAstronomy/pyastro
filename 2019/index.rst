@@ -39,7 +39,7 @@ Please contact the organising committee if you have any questions about the appl
 Program
 #######
 
-A preliminary conference schedule and related info `can be found here </2019/schedule>`_.
+The conference schedule and related info `can be found here </2019/schedule>`_.
 
 Chat and Social Media
 #####################
