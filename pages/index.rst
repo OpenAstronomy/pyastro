@@ -9,18 +9,25 @@ Python in Astronomy is a conference series focusing on the use,
 development, and community surrounding Python packages for all types of
 Astronomy.
 
+`2020 </2020>`__
+----------------
+The 2020 Python in Astronomy conference will be held at Trinity College,
+Dublin on 20-24 April, 2020. More information is available `here </2020>`__.
+
 `2019 </2019>`__
 ----------------
 
-This year's Python in Astronomy conference will be at the `Space Telescope Science
-Institute </http://www.stsci.edu/>`__ in Baltimore on July 29th - August 2nd.
+The 2019 Python in Astronomy conference was held at the
+`Space Telescope Science Institute </http://www.stsci.edu/>`__ in Baltimore, MD USA
+on July 29th - August 2nd. More details can be found `here </2019>`__.
 
 `2018 </2018>`__
 ----------------
 
 The fourth meeting was held at the `Center for Computational Astrophysics
 <https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/>`__
-in New York on the 30th April - 4th May 2018. More details can be found `here </2018>`__.
+in New York on the 30th April - 4th May 2018. More details can be found
+`here </2018>`__.
 
 .. figure:: /images/pyastro18_attendees.jpg
    :alt: Python in Astronomy 2018 Attendees, Copyright 2018 Jocelyn Dorszynski
