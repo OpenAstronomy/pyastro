@@ -92,11 +92,56 @@ To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
 Venue
 #####
 
+The conference will be held in the `Fitzgerald Building <https://www.google.com/maps/place/Fitzgerald+Building,+School+of+Physics/@53.3436569,-6.2521617,20.73z/data=!4m5!3m4!1s0x0:0xdcde783b465804c5!8m2!3d53.3436366!4d-6.2520718?shorturl=1>`_
+at the School of Physics, Trinity College Dublin (TCD).
+Maps and additional information can be found `here <https://www.tcd.ie/Maps/>`_.
 
-Lodging information
+Travel
+######
+
+TCD is located in Dublin City centre and is easily accessible from
+Dublin Airport (DUB), with flight connections to almost all major European
+and inter-continental cities. From the airport terminals, Dublin city centre
+can be reached either by bus or by taxi.
+
+Taxi
+****
+
+Taxis are readily available outside both terminal buildings. A taxi will take
+about 20-30 minutes (depending on traffic). The usual fare for a journey to
+Dublin city centre is approximately €25.
+
+Bus
+***
+
+TCD can be reached by the following bus services, with relevant drop-off
+locations indicated by red symbols in the map:
+
+* `Aircoach 700 <https://www.aircoach.ie/>`_ – €7 one way or €12 return. The
+  Aircoach leaves from the airport every 15 min to the city centre (get off
+  a the Grafton St stop - just beside the TCD front gate).
+* `Airlink 757 <https://airlinkexpress.ie/>`_ – €7 one way or €12 return.
+  This service runs every 30 minutes to the city centre (Pearse Street
+  Station stop).
+* Dublin Bus 16 – A cheaper alternative is to take the regular bus from the
+  airport that will take about an hour and will cost €3.30. The exact fare
+  needs to be paid directly to the bus driver, alternatively tickets are
+  available for sale at the small markets in the arrival section of the airport
+  (both Terminal 1 and Terminal 2).
+
+Train
+*****
+
+The conference venue is also located close to train links at Pearse and
+Connolly stations. For public transportation,
+`Leap cards <https://www.leapcard.ie/Home/index.html>`_ can be used on
+the buses, trains, and trams (Luas) in the city centre.
+
+Lodging Information
 ###################
 
-.. 
+Information on lodging options near the conference venue will be posted
+here shortly.
 
 Sponsors
 ########
