@@ -71,10 +71,10 @@ to follow the `code of conduct </code-of-conduct>`_.
    ########################
 
 
-Organising Committee
+Organizing Committee
 ####################
 
-The scientific organising committee (SOC) consists of:
+The scientific organizing committee (SOC) consists of:
 
 * Monica Bobra (co-chair)
 * Drew Leonard (co-chair)
