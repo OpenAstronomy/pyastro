@@ -21,6 +21,11 @@ The 2019 Python in Astronomy conference was held at the
 `Space Telescope Science Institute </http://www.stsci.edu/>`__ in Baltimore, MD USA
 on July 29th - August 2nd. More details can be found `here </2019>`__.
 
+.. image:: /images/pyastro19_attendees.jpg
+   :alt: Python in Astronomy 2019 Attendees, Copyright 2019 <??????>
+   :width: 600px
+   :align: center
+
 `2018 </2018>`__
 ----------------
 
@@ -29,7 +34,7 @@ The fourth meeting was held at the `Center for Computational Astrophysics
 in New York on the 30th April - 4th May 2018. More details can be found
 `here </2018>`__.
 
-.. figure:: /images/pyastro18_attendees.jpg
+.. image:: /images/pyastro18_attendees.jpg
    :alt: Python in Astronomy 2018 Attendees, Copyright 2018 Jocelyn Dorszynski
    :width: 600px
    :align: center
@@ -41,7 +46,7 @@ In 2017, the conference was back at the `Lorentz
 Centre <http://lorentzcenter.nl/>`__ in Leiden on the 8-12 May 2017. For
 more information click `here </2017>`__.
 
-.. figure:: /images/pyastro17_attendees.jpg
+.. image:: /images/pyastro17_attendees.jpg
    :alt: Python in Astronomy 2017 Attendees, Copyright 2017 Daniela Huppenkothen
    :width: 600px
    :align: center
@@ -55,7 +60,7 @@ Seattle, WA, USA.
 
 For details on the 2016 conference click `here </2016>`__.
 
-.. figure:: /images/pyastro16_attendees.jpg
+.. image:: /images/pyastro16_attendees.jpg
    :alt: Python in Astronomy 2016 Attendees
    :width: 600px
    :align: center
@@ -67,7 +72,7 @@ The 2015 Python in Astronomy conference was on the 20-24 April 2015 at
 the `Lorentz Centre <http://lorentzcenter.nl/>`__ in Leiden. For more
 information and links to the proceedings click `here </2015>`__.
 
-.. figure:: /images/pyastro15_attendees.jpg
+.. image:: /images/pyastro15_attendees.jpg
    :alt: Python in Astronomy 2015 Attendees
    :width: 600px
    :align: center
