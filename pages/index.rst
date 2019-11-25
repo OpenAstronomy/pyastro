@@ -22,7 +22,7 @@ The 2019 Python in Astronomy conference was held at the
 on July 29th - August 2nd. More details can be found `here </2019>`__.
 
 .. image:: /images/pyastro19_attendees.jpg
-   :alt: Python in Astronomy 2019 Attendees, Copyright 2019 <??????>
+   :alt: Python in Astronomy 2019 Attendees, Copyright 2019 Pam Jeffries
    :width: 600px
    :align: center
 
