@@ -32,7 +32,7 @@ Applying
 
 Applications for the 2020 Python in Astronomy Conference are now open! The
 application form can be found `here <APP_URL>`_. The deadline to apply is 
-<DEADLINE>.
+6 January 2020.
 
 ..
    Proceedings
