@@ -30,9 +30,9 @@ conference.
 Applying
 ########
 
-Applications for the 2020 Python in Astronomy Conference are now open! The
-application form can be found `here <https://forms.gle/mtdm6QKENdY8Y1Ph9>`_. The deadline to apply is 
-6 January 2020.
+Applications for the 2020 Python in Astronomy Conference are now open! To apply to
+attend, please complete `this form <https://forms.gle/mtdm6QKENdY8Y1Ph9>`_ no later than
+**6 January 2020**.
 
 ..
    Proceedings
