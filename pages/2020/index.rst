@@ -60,7 +60,7 @@ encourage everyone to join the chat and to share the links with anyone else
 who is interested in following the conference.
 
 The twitter hashtag for this workshop is `#pyastro20 <https://twitter.com/hashtag/pyastro20>`_,
-and the main twitter account will be `@pyastro20 <https://twitter.com/pyastro20>`_.
+and the main twitter account will be `@pythoninastro <https://twitter.com/pythoninastro>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect
 with other participants and the wider community.
 
