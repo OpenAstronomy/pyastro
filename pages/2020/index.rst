@@ -60,7 +60,7 @@ encourage everyone to join the chat and to share the links with anyone else
 who is interested in following the conference.
 
 The twitter hashtag for this workshop is `#pyastro20 <https://twitter.com/hashtag/pyastro20>`_,
-and the main twitter account will be `@pyastro20 <https://twitter.com/pyastro20>`_.
+and the main twitter account will be `@pythoninastro <https://twitter.com/pythoninastro>`_.
 Feel free to use the hashtag before, during, and after the workshop to connect
 with other participants and the wider community.
 
@@ -83,10 +83,17 @@ The scientific organizing committee (SOC) consists of:
 * Clara Brasseur
 * Juan Luis Cano
 * Rebecca Lange
-* Sophie Murray (local liaison)
+* Sophie Murray
 
-..
-   Add LOC as well?
+The local organizing committee (LOC) consists of:
+
+* Dúalta Ó Fionnagáin
+* Simon Purser
+* Ciara Maguire
+* Shane Maloney
+* David McKenna
+* Pearse Murphy
+* Sophie Murray (chair)
 
 To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
 
