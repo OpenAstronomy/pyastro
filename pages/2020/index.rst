@@ -83,10 +83,17 @@ The scientific organizing committee (SOC) consists of:
 * Clara Brasseur
 * Juan Luis Cano
 * Rebecca Lange
-* Sophie Murray (local liaison)
+* Sophie Murray
 
-..
-   Add LOC as well?
+The local organizing committee (LOC) consists of:
+
+* Dúalta Ó Fionnagáin
+* Simon Purser
+* Ciara Maguire
+* Shane Maloney
+* David McKenna
+* Pearse Murphy
+* Sophie Murray (chair)
 
 To contact the organizers, send an email to python.in.astronomy.soc@gmail.com.
 
