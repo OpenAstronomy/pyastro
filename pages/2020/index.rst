@@ -148,8 +148,20 @@ the buses, trains, and trams (Luas) in the city centre.
 Lodging Information
 ###################
 
-Information on lodging options near the conference venue will be posted
-here shortly.
+A limited number of rooms have been reserved at the `Ballsbridge Hotel, Pembroke Road Ballsbridge, Dublin, D04 D687. <https://www.ballsbridgehotel.com>`_ To avail of the conference bed and breakfast rate, please book via `this link <https://bookings.ballsbridgehotel.com/offer/python-in-astronomyc>`_ before 9 March 2020.
+
+This hotel is approximately 25 minutes walk from the conference venue in Trinity College (use the Lincoln Place entrance), or a short journey on public transport (nearest DART station is at Lansdowne Road and nearest bus stop is at the American Embassy). We recommend attendees get a `Leap Card <https://about.leapcard.ie/leap-visitor-card>`_ for the duration of their stay if they plan to use public transport.
+
+Some other hotels closer to the venue include:
+
+* `Trinity City Hotel <https://www.trinitycityhotel.com/>`_ on Pearse Street
+* `The Davenport Hotel <https://www.davenporthotel.ie>`_ around Merrion Square
+* `The Alex Hotel <https://www.thealexhotel.ie>`_ around Merrion Square
+* `The Mont Hotel <https://www.themonthotel.ie>`_ around Merrion Square.
+* `Buswells Hotel <https://www.buswells.ie>`_ on Molesworth Street.
+
+There are also a variety of Airbnb options across the city.
+Feel free to ask the LOC about areas in Dublin on the PyAstro chat!
 
 Sponsors
 ########
