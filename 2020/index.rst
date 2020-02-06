@@ -3,15 +3,15 @@
 20 - 24 April 2020
 --------------------
 
-Trinity College, Dublin
+Trinity College Dublin
 -----------------------
 
 .. image:: /images/pyastro_logo_150px.png
    :align: center
    :width: 150px
 
-The sixth Python in Astronomy Conference will be held at Trinity College,
-Dublin on **20 - 24 April 2020**.
+The sixth Python in Astronomy Conference will be held at Trinity College
+Dublin in Dublin, Ireland on **20 - 24 April 2020**.
 
 This conference series aims to bring together a wide variety of developers,
 educators and other contributors to Python packages in the context of all
@@ -30,9 +30,7 @@ conference.
 Applying
 ########
 
-Applications for the 2020 Python in Astronomy Conference are now open! To apply to
-attend, please complete `this form <https://forms.gle/mtdm6QKENdY8Y1Ph9>`_ no later than
-**6 January 2020**.
+Applications for the 2020 Python in Astronomy Conference are now closed. Successful applicants will either be invited to accept a place at the conference or placed on a waiting list. If you are put on the waiting list, you may receive an invitation when more places become available. Initial invitations were sent out in late January. Please contact the organizing committee if you have any questions about the application process.
 
 ..
    Proceedings
@@ -41,7 +39,7 @@ attend, please complete `this form <https://forms.gle/mtdm6QKENdY8Y1Ph9>`_ no la
 Program
 #######
 
-Once finalized, the conference schedule will be posted here.
+The conference schedule will be posted here around the middle of March.
 
 ..
    The conference schedule and related info `can be found here </2020/schedule>`_.
