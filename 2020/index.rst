@@ -50,7 +50,7 @@ Chat and Social Media
 We will be using both Matrix and Slack for online chat throughout the week,
 with a bridge to sync messages from one to the other, so people can use
 whichever platform they prefer.
-You can `go here to get an invitation for the Slack team <https://join.slack.com/t/pyastro/shared_invite/enQtNjk4MjMxNjE3Mzk1LWZkMGI1N2QxOTBlODYzNjk4OGIzMGI0MGU5YjQ2M2Y3ZTM1MTI4ZGU5MmM1ZGIyYzgxYjFmOThiZDg0ZGI5YjY>`_,
+You can `go here to get an invitation for the Slack team <https://join.slack.com/t/pyastro/shared_invite/enQtOTU1NTA0MTIzMDMxLTUyOWJiYjQ0NmU0N2MxZDllMTFiMDRiNjViODgzMmE2ZWYzNmE5YjliNWUwM2NjYjI5Zjc0ZWUyZDMxYTQ2NTk>`_,
 or `here to join the Matrix community <https://riot.im/app/#/group/+pyastro:openastronomy.org>`_.
 We will be using this chat throughout the conference for discussions about
 talks, unconferences, etc. and to facilitate remote participation, so we
