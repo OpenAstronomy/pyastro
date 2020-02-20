@@ -32,6 +32,11 @@ Applying
 
 Applications for the 2020 Python in Astronomy Conference are now closed. Successful applicants will either be invited to accept a place at the conference or placed on a waiting list. If you are put on the waiting list, you may receive an invitation when more places become available. Initial invitations were sent out in late January. Please contact the organizing committee if you have any questions about the application process.
 
+Registration
+############
+
+An email with details regarding registration will be sent out to invited participants shortly. **There will be a registration fee of €150.**
+
 ..
    Proceedings
    ###########
