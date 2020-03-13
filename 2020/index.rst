@@ -1,5 +1,21 @@
 .. title: Python in Astronomy 2020
 
+**Due to concerns surrounding the COVID-19 pandemic, the 2020 Python in Astronomy Conference is cancelled.**
+-------------------------------------------------------------------------------------------------------------------------------------
+
+We have been forced to cancel the meeting for the following reasons:
+
+- `The Irish National Public Health Emergency Team cancelled mass gatherings involving more than 100 people if located indoors. <https://www.gov.ie/en/press-release/96eb4c-statement-from-the-national-public-health-emergency-team/>`_ While the number of participants at PyAstro conferences generally fall under this number, we allowed Trinity College Dublin locals to attend the portions of the conference which aren’t space limited or covered by the conference fee (e.g. talks and hack day). This follows the same practice we extended to STScI locals at PyAstro19. As a result, some portions of PyAstro20 would involve more than 100 people indoors.
+- `Trinity College Dublin <https://www.tcd.ie/about/coronavirus/>`_ suspended all in-person classes indefinitely. Courses and exams will be administered virtually. Students have been told to go home and not come back until further notice. Staff have been told to work from home. Trinity strongly recommends cancelling “meetings, trips, outings and other events.”
+
+We understand some of you may be upset by this action. Here is what we are planning to do to mitigate the problem:
+
+- We will refund 100% of registration fees for everyone.
+- Ballsbridge Hotel will issue a 100% refund for all of its guests.
+- We will organize a 24-hour global hack day for everyone, including remote and local attendees, to participate in together. Details regarding the hack day will be available in the coming weeks.
+
+We welcome you to reach out to the SOC if you have any questions or concerns. This is a difficult time for all of us and we greatly appreciate your patience and understanding.
+
 20 - 24 April 2020
 --------------------
 
