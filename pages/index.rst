@@ -11,8 +11,9 @@ Astronomy.
 
 `2020 </2020>`__
 ----------------
-The 2020 Python in Astronomy conference will be held at Trinity College,
-Dublin on 20-24 April, 2020. More information is available `here </2020>`__.
+
+**Due to concerns surrounding the COVID-19 pandemic, the 2020 Python in Astronomy Conference in Dublin, Ireland is cancelled.** See the `meeting page </2020>`__ for additional details.
+
 
 `2019 </2019>`__
 ----------------
