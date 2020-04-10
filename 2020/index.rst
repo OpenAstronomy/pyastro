@@ -43,6 +43,13 @@ All participants at the conference will be expected to follow the
 More details will be made available on this page closer to the week of the
 conference.
 
+Virtual Hack Day(s)
+###################
+
+In lieu of this year's in-person meeting, which was unfortunately cancelled due to the ongoing COVID-19 pandemic, we will be hosting a 24-hour virtual hack day from 22-24 April. This event is open to anyone who is interested in participating and not limited to those who were planning to attend the in-person meeting. Note that all participants are expected to follow the `code of conduct </code-of-conduct>`_ while participating in any hack day activities.
+
+The hack day will consist of a few talks from some of our invited speakers from the in-person meeting as well as two wrap-up sessions, to accommodate multiple time zones, in which participants can present the results of their hack. Depending on the total number of participants, the SOC may select only a few participants to present their hack day projects. The schedule `can be found here </2020/schedule>`_. More details will be posted in the `Matrix <https://riot.im/app/#/group/+pyastro:openastronomy.org>`_ and `Slack <https://join.slack.com/t/pyastro/shared_invite/enQtOTU1NTA0MTIzMDMxLTUyOWJiYjQ0NmU0N2MxZDllMTFiMDRiNjViODgzMmE2ZWYzNmE5YjliNWUwM2NjYjI5Zjc0ZWUyZDMxYTQ2NTk>`_ rooms in the upcoming days.
+
 Applying
 ########
 
