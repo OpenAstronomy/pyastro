@@ -1,7 +1,7 @@
 .. title: PyAstro Hack Day 2020 schedule
 
 **All times are in UTC.** At least one member of the SOC will be assigned to supervise each 
-session and assist with any questions participants may have
+session and assist with any questions participants may have. 
 
 .. table::
   :widths: 10, 100
@@ -36,7 +36,7 @@ session and assist with any questions participants may have
   +------------+--------------------------------------------------------------------------------+
   | 8:00       | *Brett Morris* - **State of the Package: Astropy**                             |
   +------------+--------------------------------------------------------------------------------+
-  | 9:00       | *TBD*                                                                          |
+  | 9:00       | *J. Bruno Morgado* - **An Overview of the SKA Telescope**                      |
   +------------+--------------------------------------------------------------------------------+
   | 10:00      | Hacking continues                                                              |
   +------------+--------------------------------------------------------------------------------+
